@@ -1,0 +1,441 @@
+{
+  "Dentistry": {
+    "Dental Informatics": {
+      "label": "Dental Informatics",
+      "subcategories": {
+        "Electronic Health Records (EHR)": {
+          "label": "Electronic Health Records (EHR)",
+          "subcategories": {
+            "Interoperability Standards": {
+              "label": "Interoperability Standards",
+              "subcategories": {
+                "FHIR Resource Mapping": {
+                  "label": "FHIR Resource Mapping",
+                  "subcategories": {
+                    "Clinical Document Architecture (CDA)": {
+                      "label": "Clinical Document Architecture (CDA)",
+                      "subcategories": {
+                        "XML Schema Validation": {
+                          "label": "XML Schema Validation",
+                          "subcategories": {
+                            "XPath Query Optimization": {
+                              "label": "XPath Query Optimization",
+                              "subcategories": {
+                                "DOM Tree Traversal Algorithms": {
+                                  "label": "DOM Tree Traversal Algorithms",
+                                  "subcategories": {
+                                    "In-Memory Caching Strategies": {
+                                      "label": "In-Memory Caching Strategies",
+                                      "subcategories": {
+                                        "LRU Cache Replacement Policies": {
+                                          "label": "LRU Cache Replacement Policies",
+                                          "subcategories": {
+                                            "Temporal Locality Analysis": {
+                                              "label": "Temporal Locality Analysis",
+                                              "subcategories": {
+                                                "Markov Chain Access Prediction": {
+                                                  "label": "Markov Chain Access Prediction",
+                                                  "subcategories": {
+                                                    "Transition Matrix Smoothing": {
+                                                      "label": "Transition Matrix Smoothing",
+                                                      "subcategories": {
+                                                        "Laplace Additive Smoothing": {
+                                                          "label": "Laplace Additive Smoothing",
+                                                          "subcategories": {
+                                                            "Dirichlet Prior Optimization": {
+                                                              "label": "Dirichlet Prior Optimization",
+                                                              "subcategories": {
+                                                                "Bayesian Hierarchical Modeling": {
+                                                                  "label": "Bayesian Hierarchical Modeling",
+                                                                  "subcategories": {
+                                                                    "MCMC Convergence Diagnostics": {
+                                                                      "label": "MCMC Convergence Diagnostics",
+                                                                      "subcategories": {
+                                                                        "Gelman-Rubin R-hat Statistics": {
+                                                                          "label": "Gelman-Rubin R-hat Statistics",
+                                                                          "subcategories": {
+                                                                            "Between-Chain vs Within-Chain Variance": {
+                                                                              "label": "Between-Chain vs Within-Chain Variance",
+                                                                              "subcategories": {
+                                                                                "Potential Scale Reduction Factor": {
+                                                                                  "label": "Potential Scale Reduction Factor",
+                                                                                  "terms": [
+                                                                                    { "label": "Brooks-Gelman Extended Criterion" },
+                                                                                    { "label": "Split-R̂ Monitoring" }
+                                                                                  ]
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Clinical Decision Support Systems (CDSS)": {
+          "label": "Clinical Decision Support Systems (CDSS)",
+          "subcategories": {
+            "Rule-Based Inference Engines": {
+              "label": "Rule-Based Inference Engines",
+              "subcategories": {
+                "Drools Rule Language (DRL)": {
+                  "label": "Drools Rule Language (DRL)",
+                  "subcategories": {
+                    "Forward Chaining Optimization": {
+                      "label": "Forward Chaining Optimization",
+                      "subcategories": {
+                        "Rete Algorithm Enhancements": {
+                          "label": "Rete Algorithm Enhancements",
+                          "subcategories": {
+                            "Alpha Node Indexing": {
+                              "label": "Alpha Node Indexing",
+                              "subcategories": {
+                                "Hash-Based Join Operations": {
+                                  "label": "Hash-Based Join Operations",
+                                  "subcategories": {
+                                    "Collision Resolution Protocols": {
+                                      "label": "Collision Resolution Protocols",
+                                      "subcategories": {
+                                        "Cuckoo Hashing Reallocation": {
+                                          "label": "Cuckoo Hashing Reallocation",
+                                          "subcategories": {
+                                            "Stash Size Probability Analysis": {
+                                              "label": "Stash Size Probability Analysis",
+                                              "subcategories": {
+                                                "Random Graph Theory Applications": {
+                                                  "label": "Random Graph Theory Applications",
+                                                  "subcategories": {
+                                                    "Erdős-Rényi Model Thresholds": {
+                                                      "label": "Erdős-Rényi Model Thresholds",
+                                                      "subcategories": {
+                                                        "Giant Component Emergence": {
+                                                          "label": "Giant Component Emergence",
+                                                          "subcategories": {
+                                                            "Percolation Theory Derivations": {
+                                                              "label": "Percolation Theory Derivations",
+                                                              "terms": [
+                                                                { "label": "Critical Probability (p_c) Estimation" },
+                                                                { "label": "Cluster Size Distribution Moments" }
+                                                              ]
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Digital Dentistry": {
+      "label": "Digital Dentistry",
+      "subcategories": {
+        "3D Printing Technologies": {
+          "label": "3D Printing Technologies",
+          "subcategories": {
+            "Vat Photopolymerization": {
+              "label": "Vat Photopolymerization",
+              "subcategories": {
+                "DLP Projector Calibration": {
+                  "label": "DLP Projector Calibration",
+                  "subcategories": {
+                    "Pixel Size-to-Layer Thickness Ratio": {
+                      "label": "Pixel Size-to-Layer Thickness Ratio",
+                      "subcategories": {
+                        "Optical Distortion Compensation": {
+                          "label": "Optical Distortion Compensation",
+                          "subcategories": {
+                            "Radial Basis Function Warping": {
+                              "label": "Radial Basis Function Warping",
+                              "subcategories": {
+                                "Thin-Plate Spline Deformation": {
+                                  "label": "Thin-Plate Spline Deformation",
+                                  "subcategories": {
+                                    "Biharmonic Equation Solutions": {
+                                      "label": "Biharmonic Equation Solutions",
+                                      "subcategories": {
+                                        "Finite Difference Method Stencils": {
+                                          "label": "Finite Difference Method Stencils",
+                                          "subcategories": {
+                                            "Multigrid Convergence Acceleration": {
+                                              "label": "Multigrid Convergence Acceleration",
+                                              "subcategories": {
+                                                "V-Cycle vs W-Cycle Efficiency": {
+                                                  "label": "V-Cycle vs W-Cycle Efficiency",
+                                                  "subcategories": {
+                                                    "Smoothing Factor Optimization": {
+                                                      "label": "Smoothing Factor Optimization",
+                                                      "subcategories": {
+                                                        "Fourier Mode Analysis": {
+                                                          "label": "Fourier Mode Analysis",
+                                                          "terms": [
+                                                            { "label": "High-Frequency Damping Rates" },
+                                                            { "label": "Aliasing Error Mitigation" }
+                                                          ]
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Intraoral Scanning Systems": {
+          "label": "Intraoral Scanning Systems",
+          "subcategories": {
+            "Confocal Imaging Technology": {
+              "label": "Confocal Imaging Technology",
+              "subcategories": {
+                "Pinhole Aperture Optimization": {
+                  "label": "Pinhole Aperture Optimization",
+                  "subcategories": {
+                    "Airy Disk Radius Reduction": {
+                      "label": "Airy Disk Radius Reduction",
+                      "subcategories": {
+                        "Numerical Aperture Maximization": {
+                          "label": "Numerical Aperture Maximization",
+                          "subcategories": {
+                            "Abbe Sine Condition Compliance": {
+                              "label": "Abbe Sine Condition Compliance",
+                              "subcategories": {
+                                "Aplanatic Lens Design": {
+                                  "label": "Aplanatic Lens Design",
+                                  "subcategories": {
+                                    "Spherical Aberration Correction": {
+                                      "label": "Spherical Aberration Correction",
+                                      "subcategories": {
+                                        "Zernike Polynomial Fitting": {
+                                          "label": "Zernike Polynomial Fitting",
+                                          "subcategories": {
+                                            "Noll Index Normalization": {
+                                              "label": "Noll Index Normalization",
+                                              "subcategories": {
+                                                "Karhunen-Loève Expansion": {
+                                                  "label": "Karhunen-Loève Expansion",
+                                                  "subcategories": {
+                                                    "Covariance Matrix Diagonalization": {
+                                                      "label": "Covariance Matrix Diagonalization",
+                                                      "terms": [
+                                                        { "label": "Eigenmode Orthogonality Verification" },
+                                                        { "label": "Atmospheric Turbulence Simulation" }
+                                                      ]
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Dental Healthcare": {
+      "label": "Dental Healthcare",
+      "subcategories": {
+        "Preventive Dentistry": {
+          "label": "Preventive Dentistry",
+          "subcategories": {
+            "Caries Risk Assessment": {
+              "label": "Caries Risk Assessment",
+              "subcategories": {
+                "Salivary Biomarker Analysis": {
+                  "label": "Salivary Biomarker Analysis",
+                  "subcategories": {
+                    "Streptococcus Mutans Quantification": {
+                      "label": "Streptococcus Mutans Quantification",
+                      "subcategories": {
+                        "qPCR Primer Design": {
+                          "label": "qPCR Primer Design",
+                          "subcategories": {
+                            "Melting Temperature (Tm) Optimization": {
+                              "label": "Melting Temperature (Tm) Optimization",
+                              "subcategories": {
+                                "Nearest-Neighbor Thermodynamic Model": {
+                                  "label": "Nearest-Neighbor Thermodynamic Model",
+                                  "subcategories": {
+                                    "Salt Correction Formulas": {
+                                      "label": "Salt Correction Formulas",
+                                      "subcategories": {
+                                        "Debye-Hückel Extended Theory": {
+                                          "label": "Debye-Hückel Extended Theory",
+                                          "subcategories": {
+                                            "Ion Atmosphere Screening Effects": {
+                                              "label": "Ion Atmosphere Screening Effects",
+                                              "subcategories": {
+                                                "Poisson-Boltzmann Equation Solvers": {
+                                                  "label": "Poisson-Boltzmann Equation Solvers",
+                                                  "subcategories": {
+                                                    "Adaptive Finite Element Meshing": {
+                                                      "label": "Adaptive Finite Element Meshing",
+                                                      "subcategories": {
+                                                        "A Posteriori Error Estimators": {
+                                                          "label": "A Posteriori Error Estimators",
+                                                          "terms": [
+                                                            { "label": "Residual-Based Error Bounds" },
+                                                            { "label": "Dual Weighted Residual Methods" }
+                                                          ]
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Community Dental Programs": {
+          "label": "Community Dental Programs",
+          "subcategories": {
+            "Fluoridation Monitoring": {
+              "label": "Fluoridation Monitoring",
+              "subcategories": {
+                "Ion-Selective Electrode Calibration": {
+                  "label": "Ion-Selective Electrode Calibration",
+                  "subcategories": {
+                    "Nernst Equation Nonlinearity Correction": {
+                      "label": "Nernst Equation Nonlinearity Correction",
+                      "subcategories": {
+                        "Activity Coefficient Iterative Refinement": {
+                          "label": "Activity Coefficient Iterative Refinement",
+                          "subcategories": {
+                            "Pitzer Specific Interaction Model": {
+                              "label": "Pitzer Specific Interaction Model",
+                              "subcategories": {
+                                "Ternary System Parameterization": {
+                                  "label": "Ternary System Parameterization",
+                                  "subcategories": {
+                                    "Gaussian Process Regression": {
+                                      "label": "Gaussian Process Regression",
+                                      "subcategories": {
+                                        "Radial Basis Function Kernels": {
+                                          "label": "Radial Basis Function Kernels",
+                                          "subcategories": {
+                                            "Hyperparameter Tuning via MLE": {
+                                              "label": "Hyperparameter Tuning via MLE",
+                                              "subcategories": {
+                                                "Marginal Likelihood Gradient Ascent": {
+                                                  "label": "Marginal Likelihood Gradient Ascent",
+                                                  "terms": [
+                                                    { "label": "Cholesky Decomposition Stability" },
+                                                    { "label": "Kronecker Factored Approximate Curvature" }
+                                                  ]
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

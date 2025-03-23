@@ -1,0 +1,406 @@
+{
+  "Dentistry": {
+    "Dental Informatics": {
+      "label": "Dental Informatics",
+      "subcategories": {
+        "Clinical Data Analytics": {
+          "label": "Clinical Data Analytics",
+          "subcategories": {
+            "Predictive Modeling": {
+              "label": "Predictive Modeling",
+              "subcategories": {
+                "Survival Analysis Frameworks": {
+                  "label": "Survival Analysis Frameworks",
+                  "subcategories": {
+                    "Cox Proportional Hazards Model": {
+                      "label": "Cox Proportional Hazards Model",
+                      "subcategories": {
+                        "Partial Likelihood Maximization": {
+                          "label": "Partial Likelihood Maximization",
+                          "subcategories": {
+                            "Breslow Approximation": {
+                              "label": "Breslow Approximation",
+                              "subcategories": {
+                                "Tied Event Handling": {
+                                  "label": "Tied Event Handling",
+                                  "subcategories": {
+                                    "Efron's Method for Ties": {
+                                      "label": "Efron's Method for Ties",
+                                      "subcategories": {
+                                        "Risk Set Stratification": {
+                                          "label": "Risk Set Stratification",
+                                          "subcategories": {
+                                            "Time-Varying Covariates": {
+                                              "label": "Time-Varying Covariates",
+                                              "subcategories": {
+                                                "Counting Process Formulation": {
+                                                  "label": "Counting Process Formulation",
+                                                  "subcategories": {
+                                                    "Martingale Residual Analysis": {
+                                                      "label": "Martingale Residual Analysis",
+                                                      "subcategories": {
+                                                        "Schoenfeld Residual Tests": {
+                                                          "label": "Schoenfeld Residual Tests",
+                                                          "subcategories": {
+                                                            "Proportional Hazards Assumption Validation": {
+                                                              "label": "Proportional Hazards Assumption Validation",
+                                                              "subcategories": {
+                                                                "Supremum Tests": {
+                                                                  "label": "Supremum Tests",
+                                                                  "subcategories": {
+                                                                    "Brownian Bridge Approximations": {
+                                                                      "label": "Brownian Bridge Approximations",
+                                                                      "subcategories": {
+                                                                        "Kolmogorov-Smirnov-Type Statistics": {
+                                                                          "label": "Kolmogorov-Smirnov-Type Statistics",
+                                                                          "terms": [
+                                                                            { "label": "Adaptive Weighted Log-Rank Tests" },
+                                                                            { "label": "Maximally Selected Rank Statistics" }
+                                                                          ]
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Telehealth Integration": {
+          "label": "Telehealth Integration",
+          "subcategories": {
+            "Real-Time Video Compression": {
+              "label": "Real-Time Video Compression",
+              "subcategories": {
+                "H.265/HEVC Codec Optimization": {
+                  "label": "H.265/HEVC Codec Optimization",
+                  "subcategories": {
+                    "CTU Partitioning Strategies": {
+                      "label": "CTU Partitioning Strategies",
+                      "subcategories": {
+                        "Rate-Distortion Optimization": {
+                          "label": "Rate-Distortion Optimization",
+                          "subcategories": {
+                            "Lagrangian Multiplier Adaptation": {
+                              "label": "Lagrangian Multiplier Adaptation",
+                              "subcategories": {
+                                "Slope Matching Thresholds": {
+                                  "label": "Slope Matching Thresholds",
+                                  "subcategories": {
+                                    "Quantization Parameter Cascading": {
+                                      "label": "Quantization Parameter Cascading",
+                                      "subcategories": {
+                                        "Hierarchical B-Frame Structures": {
+                                          "label": "Hierarchical B-Frame Structures",
+                                          "subcategories": {
+                                            "Motion Vector Prediction": {
+                                              "label": "Motion Vector Prediction",
+                                              "subcategories": {
+                                                "Merge Mode Decision Trees": {
+                                                  "label": "Merge Mode Decision Trees",
+                                                  "subcategories": {
+                                                    "Entropy Coding Contexts": {
+                                                      "label": "Entropy Coding Contexts",
+                                                      "terms": [
+                                                        { "label": "CABAC Binarization Schemes" },
+                                                        { "label": "Context Model Probability Updates" }
+                                                      ]
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Digital Dentistry": {
+      "label": "Digital Dentistry",
+      "subcategories": {
+        "CAD/CAM Systems": {
+          "label": "CAD/CAM Systems",
+          "subcategories": {
+            "Tool Path Optimization": {
+              "label": "Tool Path Optimization",
+              "subcategories": {
+                "Adaptive Machining Strategies": {
+                  "label": "Adaptive Machining Strategies",
+                  "subcategories": {
+                    "Material Removal Rate Maximization": {
+                      "label": "Material Removal Rate Maximization",
+                      "subcategories": {
+                        "Chip Load Calculations": {
+                          "label": "Chip Load Calculations",
+                          "subcategories": {
+                            "Trochoidal Milling Patterns": {
+                              "label": "Trochoidal Milling Patterns",
+                              "subcategories": {
+                                "Cycloidal Tool Motion": {
+                                  "label": "Cycloidal Tool Motion",
+                                  "subcategories": {
+                                    "Curvature Continuous Paths": {
+                                      "label": "Curvature Continuous Paths",
+                                      "subcategories": {
+                                        "Quintic Spline Interpolation": {
+                                          "label": "Quintic Spline Interpolation",
+                                          "subcategories": {
+                                            "Jerk-Limited Motion Profiles": {
+                                              "label": "Jerk-Limited Motion Profiles",
+                                              "subcategories": {
+                                                "S-Curve Velocity Planning": {
+                                                  "label": "S-Curve Velocity Planning",
+                                                  "subcategories": {
+                                                    "Feedforward Control Coefficients": {
+                                                      "label": "Feedforward Control Coefficients",
+                                                      "terms": [
+                                                        { "label": "Friction Compensation Lookup Tables" },
+                                                        { "label": "Inertia Matching Algorithms" }
+                                                      ]
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Augmented Reality Surgical Guides": {
+          "label": "Augmented Reality Surgical Guides",
+          "subcategories": {
+            "Hololens Registration Accuracy": {
+              "label": "Hololens Registration Accuracy",
+              "subcategories": {
+                "Iterative Closest Point (ICP) Refinement": {
+                  "label": "Iterative Closest Point (ICP) Refinement",
+                  "subcategories": {
+                    "Point Cloud Densification": {
+                      "label": "Point Cloud Densification",
+                      "subcategories": {
+                        "Normal Vector Estimation": {
+                          "label": "Normal Vector Estimation",
+                          "subcategories": {
+                            "Principal Component Analysis (PCA)": {
+                              "label": "Principal Component Analysis (PCA)",
+                              "subcategories": {
+                                "Eigenvalue Threshold Filtering": {
+                                  "label": "Eigenvalue Threshold Filtering",
+                                  "subcategories": {
+                                    "Local Surface Curvature Analysis": {
+                                      "label": "Local Surface Curvature Analysis",
+                                      "subcategories": {
+                                        "Gaussian Sphere Mapping": {
+                                          "label": "Gaussian Sphere Mapping",
+                                          "subcategories": {
+                                            "Mean Curvature Flow Smoothing": {
+                                              "label": "Mean Curvature Flow Smoothing",
+                                              "subcategories": {
+                                                "Finite Volume Discretization": {
+                                                  "label": "Finite Volume Discretization",
+                                                  "terms": [
+                                                    { "label": "Godunov-Type Flux Approximations" },
+                                                    { "label": "MUSCL Reconstruction Schemes" }
+                                                  ]
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Dental Healthcare": {
+      "label": "Dental Healthcare",
+      "subcategories": {
+        "Periodontal Therapy": {
+          "label": "Periodontal Therapy",
+          "subcategories": {
+            "Host Modulation Therapies": {
+              "label": "Host Modulation Therapies",
+              "subcategories": {
+                "MMP Inhibitor Delivery": {
+                  "label": "MMP Inhibitor Delivery",
+                  "subcategories": {
+                    "Subgingival Sustained-Release Films": {
+                      "label": "Subgingival Sustained-Release Films",
+                      "subcategories": {
+                        "Chitosan Hydrogel Crosslinking": {
+                          "label": "Chitosan Hydrogel Crosslinking",
+                          "subcategories": {
+                            "Genipin Concentration Optimization": {
+                              "label": "Genipin Concentration Optimization",
+                              "subcategories": {
+                                "Rheological Property Characterization": {
+                                  "label": "Rheological Property Characterization",
+                                  "subcategories": {
+                                    "Oscillatory Shear Testing": {
+                                      "label": "Oscillatory Shear Testing",
+                                      "subcategories": {
+                                        "Cox-Merz Rule Validation": {
+                                          "label": "Cox-Merz Rule Validation",
+                                          "subcategories": {
+                                            "Time-Temperature Superposition": {
+                                              "label": "Time-Temperature Superposition",
+                                              "subcategories": {
+                                                "Williams-Landel-Ferry Equation": {
+                                                  "label": "Williams-Landel-Ferry Equation",
+                                                  "subcategories": {
+                                                    "Fragility Index Calculations": {
+                                                      "label": "Fragility Index Calculations",
+                                                      "terms": [
+                                                        { "label": "Angell Plot Slope Analysis" },
+                                                        { "label": "Vogel-Fulcher-Tammann Fitting" }
+                                                      ]
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Orthodontic Care": {
+          "label": "Orthodontic Care",
+          "subcategories": {
+            "Clear Aligner Force Modeling": {
+              "label": "Clear Aligner Force Modeling",
+              "subcategories": {
+                "Hyperelastic Material Laws": {
+                  "label": "Hyperelastic Material Laws",
+                  "subcategories": {
+                    "Mooney-Rivlin Parameter Calibration": {
+                      "label": "Mooney-Rivlin Parameter Calibration",
+                      "subcategories": {
+                        "Biaxial Tensile Testing": {
+                          "label": "Biaxial Tensile Testing",
+                          "subcategories": {
+                            "Planar Stress-Strain Curves": {
+                              "label": "Planar Stress-Strain Curves",
+                              "subcategories": {
+                                "Invariant-Based Constitutive Models": {
+                                  "label": "Invariant-Based Constitutive Models",
+                                  "subcategories": {
+                                    "Ogden Strain Energy Function": {
+                                      "label": "Ogden Strain Energy Function",
+                                      "subcategories": {
+                                        "Volumetric-Deviatoric Splitting": {
+                                          "label": "Volumetric-Deviatoric Splitting",
+                                          "subcategories": {
+                                            "Penalty Parameter Optimization": {
+                                              "label": "Penalty Parameter Optimization",
+                                              "subcategories": {
+                                                "Augmented Lagrangian Methods": {
+                                                  "label": "Augmented Lagrangian Methods",
+                                                  "terms": [
+                                                    { "label": "Uzawa Iteration Convergence" },
+                                                    { "label": "Dual Variable Update Strategies" }
+                                                  ]
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

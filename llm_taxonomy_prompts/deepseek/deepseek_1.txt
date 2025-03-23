@@ -1,0 +1,232 @@
+{
+  "Dentistry": {
+    "Oral Surgery": {
+      "label": "Oral Surgery",
+      "subcategories": {
+        "Dentoalveolar Surgery": {
+          "label": "Dentoalveolar Surgery",
+          "subcategories": {
+            "Impacted Tooth Extraction": {
+              "label": "Impacted Tooth Extraction",
+              "subcategories": {
+                "Surgical Access Techniques": {
+                  "label": "Surgical Access Techniques",
+                  "subcategories": {
+                    "Flap Design": {
+                      "label": "Flap Design",
+                      "subcategories": {
+                        "Envelope vs. Triangular Flaps": {
+                          "label": "Envelope vs. Triangular Flaps",
+                          "subcategories": {
+                            "Blood Supply Preservation": {
+                              "label": "Blood Supply Preservation",
+                              "subcategories": {
+                                "Microcirculation Mapping": {
+                                  "label": "Microcirculation Mapping",
+                                  "subcategories": {
+                                    "Laser Doppler Flowmetry": {
+                                      "label": "Laser Doppler Flowmetry",
+                                      "subcategories": {
+                                        "Perfusion Thresholds": {
+                                          "label": "Perfusion Thresholds",
+                                          "subcategories": {
+                                            "Ischemic Risk Mitigation": {
+                                              "label": "Ischemic Risk Mitigation",
+                                              "subcategories": {
+                                                "Postoperative Monitoring Protocols": {
+                                                  "label": "Postoperative Monitoring Protocols",
+                                                  "terms": [
+                                                    { "label": "Capillary Refill Time Metrics" },
+                                                    { "label": "Thermographic Imaging Intervals" }
+                                                  ]
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Prosthodontics": {
+      "label": "Prosthodontics",
+      "subcategories": {
+        "Fixed Prostheses": {
+          "label": "Fixed Prostheses",
+          "subcategories": {
+            "All-Ceramic Crowns": {
+              "label": "All-Ceramic Crowns",
+              "subcategories": {
+                "Marginal Fit Optimization": {
+                  "label": "Marginal Fit Optimization",
+                  "subcategories": {
+                    "Digital Impression Systems": {
+                      "label": "Digital Impression Systems",
+                      "subcategories": {
+                        "Intraoral Scanner Accuracy": {
+                          "label": "Intraoral Scanner Accuracy",
+                          "subcategories": {
+                            "Trueness vs. Precision Metrics": {
+                              "label": "Trueness vs. Precision Metrics",
+                              "subcategories": {
+                                "ISO 12836 Compliance Testing": {
+                                  "label": "ISO 12836 Compliance Testing",
+                                  "subcategories": {
+                                    "Reference Model Registration": {
+                                      "label": "Reference Model Registration",
+                                      "subcategories": {
+                                        "Best-Fit Algorithm Parameters": {
+                                          "label": "Best-Fit Algorithm Parameters",
+                                          "subcategories": {
+                                            "Iterative Closest Point (ICP) Refinement": {
+                                              "label": "Iterative Closest Point (ICP) Refinement",
+                                              "terms": [
+                                                { "label": "Convergence Tolerance Thresholds" },
+                                                { "label": "Point Cloud Density Optimization" }
+                                              ]
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Dental Education": {
+      "label": "Dental Education",
+      "subcategories": {
+        "Simulation Training": {
+          "label": "Simulation Training",
+          "subcategories": {
+            "Haptic Feedback Systems": {
+              "label": "Haptic Feedback Systems",
+              "subcategories": {
+                "Force Resolution Calibration": {
+                  "label": "Force Resolution Calibration",
+                  "subcategories": {
+                    "Tactile Sensitivity Grading": {
+                      "label": "Tactile Sensitivity Grading",
+                      "subcategories": {
+                        "Virtual Caries Detection": {
+                          "label": "Virtual Caries Detection",
+                          "subcategories": {
+                            "Resistance Profiling": {
+                              "label": "Resistance Profiling",
+                              "subcategories": {
+                                "Dynamic Force Vector Analysis": {
+                                  "label": "Dynamic Force Vector Analysis",
+                                  "subcategories": {
+                                    "Anisotropic Material Modeling": {
+                                      "label": "Anisotropic Material Modeling",
+                                      "subcategories": {
+                                        "Viscoelastic Parameters": {
+                                          "label": "Viscoelastic Parameters",
+                                          "subcategories": {
+                                            "Stress Relaxation Time Constants": {
+                                              "label": "Stress Relaxation Time Constants",
+                                              "terms": [
+                                                { "label": "Maxwell Model Coefficients" },
+                                                { "label": "Prony Series Fitting" }
+                                              ]
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Forensic Odontology": {
+      "label": "Forensic Odontology",
+      "subcategories": {
+        "Dental Identification": {
+          "label": "Dental Identification",
+          "subcategories": {
+            "Radiographic Pattern Matching": {
+              "label": "Radiographic Pattern Matching",
+              "subcategories": {
+                "Antemortem-Postmortem Alignment": {
+                  "label": "Antemortem-Postmortem Alignment",
+                  "subcategories": {
+                    "Landmark-Based Registration": {
+                      "label": "Landmark-Based Registration",
+                      "subcategories": {
+                        "Procrustes Analysis": {
+                          "label": "Procrustes Analysis",
+                          "subcategories": {
+                            "Superimposition Error Minimization": {
+                              "label": "Superimposition Error Minimization",
+                              "subcategories": {
+                                "Generalized Procrustes Analysis (GPA)": {
+                                  "label": "Generalized Procrustes Analysis (GPA)",
+                                  "subcategories": {
+                                    "Consensus Configuration Generation": {
+                                      "label": "Consensus Configuration Generation",
+                                      "subcategories": {
+                                        "Iterative Weighting Schemes": {
+                                          "label": "Iterative Weighting Schemes",
+                                          "terms": [
+                                            { "label": "Euclidean Distance Thresholds" },
+                                            { "label": "Tangent Space Projection Parameters" }
+                                          ]
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,435 @@
+{
+  "Dentistry": {
+    "Orthodontics": {
+      "label": "Orthodontics",
+      "subcategories": {
+        "Diagnostic Imaging": {
+          "label": "Diagnostic Imaging",
+          "subcategories": {
+            "Cephalometric Analysis": {
+              "label": "Cephalometric Analysis",
+              "subcategories": {
+                "Machine Learning Landmark Identification": {
+                  "label": "Machine Learning Landmark Identification",
+                  "subcategories": {
+                    "Convolutional Neural Networks (CNNs)": {
+                      "label": "Convolutional Neural Networks (CNNs)",
+                      "subcategories": {
+                        "Feature Pyramid Networks": {
+                          "label": "Feature Pyramid Networks",
+                          "subcategories": {
+                            "Multi-Scale Attention Mechanisms": {
+                              "label": "Multi-Scale Attention Mechanisms",
+                              "subcategories": {
+                                "Gradient-Weighted Class Activation Mapping": {
+                                  "label": "Gradient-Weighted Class Activation Mapping",
+                                  "subcategories": {
+                                    "Class-Specific Saliency Visualization": {
+                                      "label": "Class-Specific Saliency Visualization",
+                                      "subcategories": {
+                                        "Adversarial Robustness Testing": {
+                                          "label": "Adversarial Robustness Testing",
+                                          "subcategories": {
+                                            "FGSM Attack Perturbation": {
+                                              "label": "FGSM Attack Perturbation",
+                                              "subcategories": {
+                                                "Epsilon Value Sensitivity Analysis": {
+                                                  "label": "Epsilon Value Sensitivity Analysis",
+                                                  "subcategories": {
+                                                    "Lipschitz Continuity Constraints": {
+                                                      "label": "Lipschitz Continuity Constraints",
+                                                      "subcategories": {
+                                                        "Spectral Normalization": {
+                                                          "label": "Spectral Normalization",
+                                                          "subcategories": {
+                                                            "Power Iteration Convergence Criteria": {
+                                                              "label": "Power Iteration Convergence Criteria",
+                                                              "subcategories": {
+                                                                "Singular Value Thresholding": {
+                                                                  "label": "Singular Value Thresholding",
+                                                                  "subcategories": {
+                                                                    "Matrix Rank Preservation": {
+                                                                      "label": "Matrix Rank Preservation",
+                                                                      "subcategories": {
+                                                                        "Nuclear Norm Minimization": {
+                                                                          "label": "Nuclear Norm Minimization",
+                                                                          "subcategories": {
+                                                                            "Proximal Gradient Descent": {
+                                                                              "label": "Proximal Gradient Descent",
+                                                                              "subcategories": {
+                                                                                "Backtracking Line Search": {
+                                                                                  "label": "Backtracking Line Search",
+                                                                                  "subcategories": {
+                                                                                    "Armijo-Goldstein Condition": {
+                                                                                      "label": "Armijo-Goldstein Condition",
+                                                                                      "subcategories": {
+                                                                                        "Curvature Requirement Verification": {
+                                                                                          "label": "Curvature Requirement Verification",
+                                                                                          "subcategories": {
+                                                                                            "Wolfe Conditions Enforcement": {
+                                                                                              "label": "Wolfe Conditions Enforcement",
+                                                                                              "subcategories": {
+                                                                                                "Strong vs. Weak Convergence": {
+                                                                                                  "label": "Strong vs. Weak Convergence",
+                                                                                                  "subcategories": {
+                                                                                                    "Banach Fixed-Point Theorem": {
+                                                                                                      "label": "Banach Fixed-Point Theorem",
+                                                                                                      "subcategories": {
+                                                                                                        "Contraction Mapping Constants": {
+                                                                                                          "label": "Contraction Mapping Constants",
+                                                                                                          "subcategories": {
+                                                                                                            "Cauchy Sequence Completeness": {
+                                                                                                              "label": "Cauchy Sequence Completeness",
+                                                                                                              "subcategories": {
+                                                                                                                "Metric Space Separability": {
+                                                                                                                  "label": "Metric Space Separability",
+                                                                                                                  "subcategories": {
+                                                                                                                    "Dense Subset Construction": {
+                                                                                                                      "label": "Dense Subset Construction",
+                                                                                                                      "subcategories": {
+                                                                                                                        "Rational Coordinate Approximations": {
+                                                                                                                          "label": "Rational Coordinate Approximations",
+                                                                                                                          "subcategories": {
+                                                                                                                            "Diophantine Equation Solutions": {
+                                                                                                                              "label": "Diophantine Equation Solutions",
+                                                                                                                              "terms": [
+                                                                                                                                { "label": "Pell Equation Solver Algorithms" },
+                                                                                                                                { "label": "Hilbert's Tenth Problem Reductions" }
+                                                                                                                              ]
+                                                                                                                            }
+                                                                                                                          }
+                                                                                                                        }
+                                                                                                                      }
+                                                                                                                    }
+                                                                                                                  }
+                                                                                                                }
+                                                                                                              }
+                                                                                                            }
+                                                                                                          }
+                                                                                                        }
+                                                                                                      }
+                                                                                                    }
+                                                                                                  }
+                                                                                                }
+                                                                                              }
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Periodontics": {
+      "label": "Periodontics",
+      "subcategories": {
+        "Host-Microbiome Interactions": {
+          "label": "Host-Microbiome Interactions",
+          "subcategories": {
+            "Cytokine Signaling Pathways": {
+              "label": "Cytokine Signaling Pathways",
+              "subcategories": {
+                "IL-1β Polymorphism Effects": {
+                  "label": "IL-1β Polymorphism Effects",
+                  "subcategories": {
+                    "SNP rs16944 Genotyping": {
+                      "label": "SNP rs16944 Genotyping",
+                      "subcategories": {
+                        "TaqMan Probe Design": {
+                          "label": "TaqMan Probe Design",
+                          "subcategories": {
+                            "Fluorescence Resonance Energy Transfer (FRET)": {
+                              "label": "Fluorescence Resonance Energy Transfer (FRET)",
+                              "subcategories": {
+                                "Quencher Dye Efficiency": {
+                                  "label": "Quencher Dye Efficiency",
+                                  "subcategories": {
+                                    "Förster Radius Optimization": {
+                                      "label": "Förster Radius Optimization",
+                                      "subcategories": {
+                                        "Dipole Orientation Factor": {
+                                          "label": "Dipole Orientation Factor",
+                                          "subcategories": {
+                                            "Time-Resolved Anisotropy Measurements": {
+                                              "label": "Time-Resolved Anisotropy Measurements",
+                                              "subcategories": {
+                                                "Picosecond Pulsed Laser Systems": {
+                                                  "label": "Picosecond Pulsed Laser Systems",
+                                                  "subcategories": {
+                                                    "Mode-Locked Titanium-Sapphire Lasers": {
+                                                      "label": "Mode-Locked Titanium-Sapphire Lasers",
+                                                      "subcategories": {
+                                                        "Chirped Pulse Amplification": {
+                                                          "label": "Chirped Pulse Amplification",
+                                                          "subcategories": {
+                                                            "Grating Compression Alignment": {
+                                                              "label": "Grating Compression Alignment",
+                                                              "subcategories": {
+                                                                "Group Delay Dispersion Calibration": {
+                                                                  "label": "Group Delay Dispersion Calibration",
+                                                                  "subcategories": {
+                                                                    "Spectral Phase Interferometry": {
+                                                                      "label": "Spectral Phase Interferometry",
+                                                                      "subcategories": {
+                                                                        "Frequency-Resolved Optical Gating (FROG)": {
+                                                                          "label": "Frequency-Resolved Optical Gating (FROG)",
+                                                                          "subcategories": {
+                                                                            "Iterative Phase Retrieval Algorithms": {
+                                                                              "label": "Iterative Phase Retrieval Algorithms",
+                                                                              "subcategories": {
+                                                                                "Principal Component Generalized Projections": {
+                                                                                  "label": "Principal Component Generalized Projections",
+                                                                                  "subcategories": {
+                                                                                    "Singular Value Decomposition Noise Filtering": {
+                                                                                      "label": "Singular Value Decomposition Noise Filtering",
+                                                                                      "subcategories": {
+                                                                                        "Lanczos Bidiagonalization": {
+                                                                                          "label": "Lanczos Bidiagonalization",
+                                                                                          "subcategories": {
+                                                                                            "Krylov Subspace Iteration": {
+                                                                                              "label": "Krylov Subspace Iteration",
+                                                                                              "subcategories": {
+                                                                                                "Arnoldi Process Reorthogonalization": {
+                                                                                                  "label": "Arnoldi Process Reorthogonalization",
+                                                                                                  "subcategories": {
+                                                                                                    "Modified Gram-Schmidt Stability": {
+                                                                                                      "label": "Modified Gram-Schmidt Stability",
+                                                                                                      "subcategories": {
+                                                                                                        "Loss of Orthogonality Metrics": {
+                                                                                                          "label": "Loss of Orthogonality Metrics",
+                                                                                                          "subcategories": {
+                                                                                                            "Householder Reflection Alternatives": {
+                                                                                                              "label": "Householder Reflection Alternatives",
+                                                                                                              "terms": [
+                                                                                                                { "label": "Givens Rotations for QR Factorization" },
+                                                                                                                { "label": "Block Householder Transformations" }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          }
+                                                                                                        }
+                                                                                                      }
+                                                                                                    }
+                                                                                                  }
+                                                                                                }
+                                                                                              }
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Oral Medicine": {
+      "label": "Oral Medicine",
+      "subcategories": {
+        "Oral Potentially Malignant Disorders": {
+          "label": "Oral Potentially Malignant Disorders",
+          "subcategories": {
+            "Epigenetic Methylation Patterns": {
+              "label": "Epigenetic Methylation Patterns",
+              "subcategories": {
+                "Bisulfite Sequencing Protocols": {
+                  "label": "Bisulfite Sequencing Protocols",
+                  "subcategories": {
+                    "PCR Bias Correction": {
+                      "label": "PCR Bias Correction",
+                      "subcategories": {
+                        "Lambda DNA Spike-In Controls": {
+                          "label": "Lambda DNA Spike-In Controls",
+                          "subcategories": {
+                            "Digital Droplet PCR Quantification": {
+                              "label": "Digital Droplet PCR Quantification",
+                              "subcategories": {
+                                "Poisson Distribution Analysis": {
+                                  "label": "Poisson Distribution Analysis",
+                                  "subcategories": {
+                                    "Emulsion Breakage Efficiency": {
+                                      "label": "Emulsion Breakage Efficiency",
+                                      "subcategories": {
+                                        "Surfactant Concentration Optimization": {
+                                          "label": "Surfactant Concentration Optimization",
+                                          "subcategories": {
+                                            "Critical Micelle Concentration Determination": {
+                                              "label": "Critical Micelle Concentration Determination",
+                                              "subcategories": {
+                                                "Surface Tension Isotherms": {
+                                                  "label": "Surface Tension Isotherms",
+                                                  "subcategories": {
+                                                    "Wilhelmy Plate Method Calibration": {
+                                                      "label": "Wilhelmy Plate Method Calibration",
+                                                      "subcategories": {
+                                                        "Contact Angle Hysteresis": {
+                                                          "label": "Contact Angle Hysteresis",
+                                                          "subcategories": {
+                                                            "Young-Laplace Equation Solutions": {
+                                                              "label": "Young-Laplace Equation Solutions",
+                                                              "subcategories": {
+                                                                "Axisymmetric Drop Shape Analysis (ADSA)": {
+                                                                  "label": "Axisymmetric Drop Shape Analysis (ADSA)",
+                                                                  "subcategories": {
+                                                                    "Numerical Integration of Curvature": {
+                                                                      "label": "Numerical Integration of Curvature",
+                                                                      "subcategories": {
+                                                                        "Runge-Kutta Adaptive Step-Size Control": {
+                                                                          "label": "Runge-Kutta Adaptive Step-Size Control",
+                                                                          "subcategories": {
+                                                                            "Dormand-Prince Coefficient Sets": {
+                                                                              "label": "Dormand-Prince Coefficient Sets",
+                                                                              "subcategories": {
+                                                                                "Embedded Error Estimation": {
+                                                                                  "label": "Embedded Error Estimation",
+                                                                                  "subcategories": {
+                                                                                    "PI Step-Size Controller Tuning": {
+                                                                                      "label": "PI Step-Size Controller Tuning",
+                                                                                      "subcategories": {
+                                                                                        "Ziegler-Nichols Stability Margins": {
+                                                                                          "label": "Ziegler-Nichols Stability Margins",
+                                                                                          "subcategories": {
+                                                                                            "Nyquist Plot Gain-Phase Analysis": {
+                                                                                              "label": "Nyquist Plot Gain-Phase Analysis",
+                                                                                              "subcategories": {
+                                                                                                "Cauchy's Argument Principle": {
+                                                                                                  "label": "Cauchy's Argument Principle",
+                                                                                                  "subcategories": {
+                                                                                                    "Pole-Zero Cancellation Risks": {
+                                                                                                      "label": "Pole-Zero Cancellation Risks",
+                                                                                                      "subcategories": {
+                                                                                                        "Bode Sensitivity Integral Constraints": {
+                                                                                                          "label": "Bode Sensitivity Integral Constraints",
+                                                                                                          "subcategories": {
+                                                                                                            "Waterbed Effect Magnitude Tradeoffs": {
+                                                                                                              "label": "Waterbed Effect Magnitude Tradeoffs",
+                                                                                                              "terms": [
+                                                                                                                { "label": "H∞ Robust Control Synthesis" },
+                                                                                                                { "label": "Loop-Shaping Design Methodologies" }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          }
+                                                                                                        }
+                                                                                                      }
+                                                                                                    }
+                                                                                                  }
+                                                                                                }
+                                                                                              }
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

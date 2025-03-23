@@ -1,0 +1,1550 @@
+{
+  "Dentistry": {
+    "label": "Dentistry",
+    "subcategories": {
+      "Dental Informatics": {
+        "label": "Dental Informatics",
+        "subcategories": {
+          "Electronic Health Records": {
+            "label": "Electronic Health Records",
+            "subcategories": {
+              "Data Management": {
+                "label": "Data Management",
+                "subcategories": {
+                  "Data Validation": {
+                    "label": "Data Validation",
+                    "subcategories": {
+                      "Real-Time Monitoring": {
+                        "label": "Real-Time Monitoring",
+                        "subcategories": {
+                          "Automated Error Checking": {
+                            "label": "Automated Error Checking",
+                            "subcategories": {
+                              "Algorithmic Verification": {
+                                "label": "Algorithmic Verification",
+                                "subcategories": {
+                                  "Pattern Recognition": {
+                                    "label": "Pattern Recognition",
+                                    "subcategories": {
+                                      "Neural Network Models": {
+                                        "label": "Neural Network Models",
+                                        "subcategories": {
+                                          "Backpropagation Techniques": {
+                                            "label": "Backpropagation Techniques",
+                                            "subcategories": {
+                                              "Gradient Descent Optimization": {
+                                                "label": "Gradient Descent Optimization",
+                                                "subcategories": {
+                                                  "Learning Rate Adjustments": {
+                                                    "label": "Learning Rate Adjustments",
+                                                    "subcategories": {
+                                                      "Convergence Analysis": {
+                                                        "label": "Convergence Analysis",
+                                                        "subcategories": {
+                                                          "Iterative Refinement": {
+                                                            "label": "Iterative Refinement",
+                                                            "subcategories": {
+                                                              "Optimization Benchmarks": {
+                                                                "label": "Optimization Benchmarks",
+                                                                "subcategories": {
+                                                                  "Accuracy Metrics": {
+                                                                    "label": "Accuracy Metrics",
+                                                                    "subcategories": {
+                                                                      "Statistical Performance Testing": {
+                                                                        "label": "Statistical Performance Testing",
+                                                                        "subcategories": {
+                                                                          "Micro-Performance Analysis": {
+                                                                            "label": "Micro-Performance Analysis",
+                                                                            "subcategories": {
+                                                                              "Nano Performance Calibration": {
+                                                                                "label": "Nano Performance Calibration",
+                                                                                "subcategories": {
+                                                                                  "Atomic Level Analysis": {
+                                                                                    "label": "Atomic Level Analysis",
+                                                                                    "subcategories": {
+                                                                                      "Subatomic Process Optimization": {
+                                                                                        "label": "Subatomic Process Optimization",
+                                                                                        "subcategories": {
+                                                                                          "Quantum Algorithm Integration": {
+                                                                                            "label": "Quantum Algorithm Integration",
+                                                                                            "subcategories": {
+                                                                                              "Quantum Error Correction": {
+                                                                                                "label": "Quantum Error Correction",
+                                                                                                "subcategories": {
+                                                                                                  "Entanglement Verification": {
+                                                                                                    "label": "Entanglement Verification",
+                                                                                                    "subcategories": {
+                                                                                                      "Quantum Neural Refinement": {
+                                                                                                        "label": "Quantum Neural Refinement",
+                                                                                                        "subcategories": {
+                                                                                                          "Quantum Learning Adjustments": {
+                                                                                                            "label": "Quantum Learning Adjustments",
+                                                                                                            "subcategories": {
+                                                                                                              "Quantum Convergence Analysis": {
+                                                                                                                "label": "Quantum Convergence Analysis",
+                                                                                                                "subcategories": {
+                                                                                                                  "Quantum Iterative Modeling": {
+                                                                                                                    "label": "Quantum Iterative Modeling",
+                                                                                                                    "subcategories": {
+                                                                                                                      "Quantum Micro-Optimization": {
+                                                                                                                        "label": "Quantum Micro-Optimization",
+                                                                                                                        "subcategories": {
+                                                                                                                          "Sub-Quantum Parameter Tuning": {
+                                                                                                                            "label": "Sub-Quantum Parameter Tuning",
+                                                                                                                            "subcategories": {
+                                                                                                                              "Hyperfine Structure Calibration": {
+                                                                                                                                "label": "Hyperfine Structure Calibration",
+                                                                                                                                "subcategories": {
+                                                                                                                                  "Quantum State Stabilization": {
+                                                                                                                                    "label": "Quantum State Stabilization",
+                                                                                                                                    "subcategories": {
+                                                                                                                                      "Nano-Scale Integrity Verification": {
+                                                                                                                                        "label": "Nano-Scale Integrity Verification"
+                                                                                                                                      },
+                                                                                                                                      "Alternative Nano Verification": {
+                                                                                                                                        "label": "Alternative Nano Verification"
+                                                                                                                                      }
+                                                                                                                                    }
+                                                                                                                                  },
+                                                                                                                                  "Molecular Consistency Checks": {
+                                                                                                                                    "label": "Molecular Consistency Checks",
+                                                                                                                                    "subcategories": {
+                                                                                                                                      "Atomic Bond Calibration": {
+                                                                                                                                        "label": "Atomic Bond Calibration"
+                                                                                                                                      }
+                                                                                                                                    }
+                                                                                                                                  }
+                                                                                                                                }
+                                                                                                                              },
+                                                                                                                              "Sub-Quantum Signal Optimization": {
+                                                                                                                                "label": "Sub-Quantum Signal Optimization"
+                                                                                                                              }
+                                                                                                                            }
+                                                                                                                          },
+                                                                                                                          "Alternative Micro-Optimization": {
+                                                                                                                            "label": "Alternative Micro-Optimization"
+                                                                                                                          }
+                                                                                                                        }
+                                                                                                                      }
+                                                                                                                    }
+                                                                                                                  }
+                                                                                                                }
+                                                                                                              }
+                                                                                                            }
+                                                                                                          },
+                                                                                                          "Parallel Quantum Processing": {
+                                                                                                            "label": "Parallel Quantum Processing"
+                                                                                                          }
+                                                                                                        }
+                                                                                                      },
+                                                                                                      "Alternative Neural Refinement": {
+                                                                                                        "label": "Alternative Neural Refinement"
+                                                                                                      }
+                                                                                                    }
+                                                                                                  },
+                                                                                                  "Supplementary Quantum Correction": {
+                                                                                                    "label": "Supplementary Quantum Correction"
+                                                                                                  }
+                                                                                                }
+                                                                                              },
+                                                                                              "Alternative Quantum Integration": {
+                                                                                                "label": "Alternative Quantum Integration"
+                                                                                              }
+                                                                                            }
+                                                                                          },
+                                                                                          "Non-Quantum Optimization": {
+                                                                                            "label": "Non-Quantum Optimization"
+                                                                                          }
+                                                                                        }
+                                                                                      },
+                                                                                      "Atomic Interaction Modeling": {
+                                                                                        "label": "Atomic Interaction Modeling",
+                                                                                        "subcategories": {
+                                                                                          "Electron Cloud Analysis": {
+                                                                                            "label": "Electron Cloud Analysis"
+                                                                                          },
+                                                                                          "Subatomic Bonding Dynamics": {
+                                                                                            "label": "Subatomic Bonding Dynamics"
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  },
+                                                                                  "Alternative Nano Calibration": {
+                                                                                    "label": "Alternative Nano Calibration"
+                                                                                  }
+                                                                                }
+                                                                              },
+                                                                              "Supplementary Micro-Analysis": {
+                                                                                "label": "Supplementary Micro-Analysis"
+                                                                              }
+                                                                            }
+                                                                          },
+                                                                          "Parallel Statistical Testing": {
+                                                                            "label": "Parallel Statistical Testing"
+                                                                          }
+                                                                        }
+                                                                      },
+                                                                      "Alternative Accuracy Evaluation": {
+                                                                        "label": "Alternative Accuracy Evaluation"
+                                                                      }
+                                                                    }
+                                                                  },
+                                                                  "Alternative Benchmarking": {
+                                                                    "label": "Alternative Benchmarking"
+                                                                  }
+                                                                }
+                                                              },
+                                                              "Supplementary Iterative Techniques": {
+                                                                "label": "Supplementary Iterative Techniques"
+                                                              }
+                                                            }
+                                                          },
+                                                          "Alternative Convergence Methods": {
+                                                            "label": "Alternative Convergence Methods"
+                                                          }
+                                                        }
+                                                      },
+                                                      "Supplementary Learning Adjustments": {
+                                                        "label": "Supplementary Learning Adjustments"
+                                                      }
+                                                    }
+                                                  },
+                                                  "Alternative Descent Techniques": {
+                                                    "label": "Alternative Descent Techniques"
+                                                  }
+                                                }
+                                              },
+                                              "Supplementary Backpropagation Methods": {
+                                                "label": "Supplementary Backpropagation Methods"
+                                              }
+                                            }
+                                          },
+                                          "Alternative Neural Models": {
+                                            "label": "Alternative Neural Models"
+                                          }
+                                        }
+                                      },
+                                      "Supplementary Pattern Analysis": {
+                                        "label": "Supplementary Pattern Analysis"
+                                      }
+                                    }
+                                  },
+                                  "Alternative Algorithmic Verification": {
+                                    "label": "Alternative Algorithmic Verification"
+                                  }
+                                }
+                              },
+                              "Supplementary Automated Checking": {
+                                "label": "Supplementary Automated Checking"
+                              }
+                            }
+                          },
+                          "Alternative Real-Time Monitoring": {
+                            "label": "Alternative Real-Time Monitoring"
+                          }
+                        }
+                      },
+                      "Supplementary Data Validation": {
+                        "label": "Supplementary Data Validation"
+                      }
+                    }
+                  },
+                  "Data Security": {
+                    "label": "Data Security",
+                    "subcategories": {
+                      "Encryption Protocols": {
+                        "label": "Encryption Protocols",
+                        "subcategories": {
+                          "Symmetric Encryption": {
+                            "label": "Symmetric Encryption",
+                            "subcategories": {
+                              "AES Standards": {
+                                "label": "AES Standards",
+                                "subcategories": {
+                                  "Key Distribution": {
+                                    "label": "Key Distribution"
+                                  },
+                                  "Alternative Cipher Modes": {
+                                    "label": "Alternative Cipher Modes"
+                                  }
+                                }
+                              },
+                              "DES Alternatives": {
+                                "label": "DES Alternatives"
+                              }
+                            }
+                          },
+                          "Asymmetric Encryption": {
+                            "label": "Asymmetric Encryption",
+                            "subcategories": {
+                              "RSA Protocol": {
+                                "label": "RSA Protocol",
+                                "subcategories": {
+                                  "Key Generation": {
+                                    "label": "Key Generation"
+                                  },
+                                  "Padding Schemes": {
+                                    "label": "Padding Schemes"
+                                  }
+                                }
+                              },
+                              "ECC Techniques": {
+                                "label": "ECC Techniques"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "Access Control": {
+                        "label": "Access Control",
+                        "subcategories": {
+                          "Role-Based Access": {
+                            "label": "Role-Based Access"
+                          },
+                          "Biometric Authentication": {
+                            "label": "Biometric Authentication"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "User Interface & Interoperability": {
+                "label": "User Interface & Interoperability",
+                "subcategories": {
+                  "User Experience Design": {
+                    "label": "User Experience Design",
+                    "subcategories": {
+                      "Responsive Design": {
+                        "label": "Responsive Design"
+                      },
+                      "Accessibility Standards": {
+                        "label": "Accessibility Standards"
+                      }
+                    }
+                  },
+                  "Interoperability Standards": {
+                    "label": "Interoperability Standards",
+                    "subcategories": {
+                      "HL7 Integration": {
+                        "label": "HL7 Integration"
+                      },
+                      "FHIR Protocols": {
+                        "label": "FHIR Protocols"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "Tele-Dentistry Systems": {
+            "label": "Tele-Dentistry Systems",
+            "subcategories": {
+              "Remote Consultation Platforms": {
+                "label": "Remote Consultation Platforms",
+                "subcategories": {
+                  "Video Conferencing Integration": {
+                    "label": "Video Conferencing Integration"
+                  },
+                  "Asynchronous Communication": {
+                    "label": "Asynchronous Communication"
+                  }
+                }
+              },
+              "Mobile Health Applications": {
+                "label": "Mobile Health Applications",
+                "subcategories": {
+                  "App Security": {
+                    "label": "App Security"
+                  },
+                  "User Engagement Analytics": {
+                    "label": "User Engagement Analytics"
+                  }
+                }
+              }
+            }
+          },
+          "Data Analytics": {
+            "label": "Data Analytics",
+            "subcategories": {
+              "Predictive Modeling": {
+                "label": "Predictive Modeling",
+                "subcategories": {
+                  "Machine Learning Algorithms": {
+                    "label": "Machine Learning Algorithms"
+                  },
+                  "Statistical Forecasting": {
+                    "label": "Statistical Forecasting"
+                  }
+                }
+              },
+              "Big Data Integration": {
+                "label": "Big Data Integration",
+                "subcategories": {
+                  "Cloud-Based Analytics": {
+                    "label": "Cloud-Based Analytics"
+                  },
+                  "Real-Time Data Processing": {
+                    "label": "Real-Time Data Processing"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Digital Dentistry": {
+        "label": "Digital Dentistry",
+        "subcategories": {
+          "3D Technologies": {
+            "label": "3D Technologies",
+            "subcategories": {
+              "3D Imaging": {
+                "label": "3D Imaging",
+                "subcategories": {
+                  "Cone Beam CT": {
+                    "label": "Cone Beam CT",
+                    "subcategories": {
+                      "Image Acquisition": {
+                        "label": "Image Acquisition",
+                        "subcategories": {
+                          "Voxel Optimization": {
+                            "label": "Voxel Optimization",
+                            "subcategories": {
+                              "Resolution Calibration": {
+                                "label": "Resolution Calibration",
+                                "subcategories": {
+                                  "Algorithm Tuning": {
+                                    "label": "Algorithm Tuning",
+                                    "subcategories": {
+                                      "Contrast Enhancement": {
+                                        "label": "Contrast Enhancement",
+                                        "subcategories": {
+                                          "Noise Reduction": {
+                                            "label": "Noise Reduction",
+                                            "subcategories": {
+                                              "Filtering Techniques": {
+                                                "label": "Filtering Techniques",
+                                                "subcategories": {
+                                                  "Edge Detection": {
+                                                    "label": "Edge Detection",
+                                                    "subcategories": {
+                                                      "Feature Extraction": {
+                                                        "label": "Feature Extraction",
+                                                        "subcategories": {
+                                                          "Deep Learning Integration": {
+                                                            "label": "Deep Learning Integration",
+                                                            "subcategories": {
+                                                              "Neural Network Training": {
+                                                                "label": "Neural Network Training",
+                                                                "subcategories": {
+                                                                  "Backpropagation Optimization": {
+                                                                    "label": "Backpropagation Optimization",
+                                                                    "subcategories": {
+                                                                      "Convergence Monitoring": {
+                                                                        "label": "Convergence Monitoring",
+                                                                        "subcategories": {
+                                                                          "Model Refinement": {
+                                                                            "label": "Model Refinement",
+                                                                            "subcategories": {
+                                                                              "Iterative Deepening": {
+                                                                                "label": "Iterative Deepening",
+                                                                                "subcategories": {
+                                                                                  "Layered Optimization": {
+                                                                                    "label": "Layered Optimization",
+                                                                                    "subcategories": {
+                                                                                      "Sub-Layer Analysis": {
+                                                                                        "label": "Sub-Layer Analysis",
+                                                                                        "subcategories": {
+                                                                                          "Micro-Adjustment Techniques": {
+                                                                                            "label": "Micro-Adjustment Techniques"
+                                                                                          },
+                                                                                          "Alternative Refinement": {
+                                                                                            "label": "Alternative Refinement"
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          },
+                                                                          "Supplementary Model Tuning": {
+                                                                            "label": "Supplementary Model Tuning"
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  },
+                                                                  "Alternative Training Strategies": {
+                                                                    "label": "Alternative Training Strategies"
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          },
+                                                          "Supplementary Feature Extraction": {
+                                                            "label": "Supplementary Feature Extraction"
+                                                          }
+                                                        }
+                                                      },
+                                                      "Alternative Edge Detection": {
+                                                        "label": "Alternative Edge Detection"
+                                                      }
+                                                    }
+                                                  },
+                                                  "Supplementary Filtering Methods": {
+                                                    "label": "Supplementary Filtering Methods"
+                                                  }
+                                                }
+                                              },
+                                              "Alternative Noise Reduction": {
+                                                "label": "Alternative Noise Reduction"
+                                              }
+                                            }
+                                          }
+                                        }
+                                      },
+                                      "Alternative Contrast Techniques": {
+                                        "label": "Alternative Contrast Techniques"
+                                      }
+                                    }
+                                  },
+                                  "Supplementary Resolution Techniques": {
+                                    "label": "Supplementary Resolution Techniques"
+                                  }
+                                }
+                              },
+                              "Alternative Voxel Strategies": {
+                                "label": "Alternative Voxel Strategies"
+                              }
+                            }
+                          },
+                          "Supplementary Image Acquisition": {
+                            "label": "Supplementary Image Acquisition"
+                          }
+                        }
+                      },
+                      "Alternative Cone Beam Methods": {
+                        "label": "Alternative Cone Beam Methods"
+                      }
+                    }
+                  },
+                  "Digital Impressions": {
+                    "label": "Digital Impressions",
+                    "subcategories": {
+                      "Intraoral Scanning": {
+                        "label": "Intraoral Scanning",
+                        "subcategories": {
+                          "Surface Rendering": {
+                            "label": "Surface Rendering",
+                            "subcategories": {
+                              "Mesh Generation": {
+                                "label": "Mesh Generation",
+                                "subcategories": {
+                                  "Topology Optimization": {
+                                    "label": "Topology Optimization",
+                                    "subcategories": {
+                                      "Surface Smoothing": {
+                                        "label": "Surface Smoothing",
+                                        "subcategories": {
+                                          "Detail Preservation": {
+                                            "label": "Detail Preservation",
+                                            "subcategories": {
+                                              "Algorithmic Enhancement": {
+                                                "label": "Algorithmic Enhancement",
+                                                "subcategories": {
+                                                  "Iterative Refinement": {
+                                                    "label": "Iterative Refinement",
+                                                    "subcategories": {
+                                                      "Multi-Scale Integration": {
+                                                        "label": "Multi-Scale Integration",
+                                                        "subcategories": {
+                                                          "Nano Detail Analysis": {
+                                                            "label": "Nano Detail Analysis",
+                                                            "subcategories": {
+                                                              "Atomic Resolution Analysis": {
+                                                                "label": "Atomic Resolution Analysis",
+                                                                "subcategories": {
+                                                                  "Quantum Mesh Optimization": {
+                                                                    "label": "Quantum Mesh Optimization",
+                                                                    "subcategories": {
+                                                                      "Subatomic Algorithm Tuning": {
+                                                                        "label": "Subatomic Algorithm Tuning",
+                                                                        "subcategories": {
+                                                                          "Quantum Iterative Loop": {
+                                                                            "label": "Quantum Iterative Loop",
+                                                                            "subcategories": {
+                                                                              "Optimization Convergence": {
+                                                                                "label": "Optimization Convergence",
+                                                                                "subcategories": {
+                                                                                  "Precision Enhancement": {
+                                                                                    "label": "Precision Enhancement",
+                                                                                    "subcategories": {
+                                                                                      "Nano Precision Calibration": {
+                                                                                        "label": "Nano Precision Calibration",
+                                                                                        "subcategories": {
+                                                                                          "Quantum Refinement": {
+                                                                                            "label": "Quantum Refinement",
+                                                                                            "subcategories": {
+                                                                                              "Sub-Nano Final Tuning": {
+                                                                                                "label": "Sub-Nano Final Tuning"
+                                                                                              }
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          },
+                                                          "Supplementary Multi-Scale Analysis": {
+                                                            "label": "Supplementary Multi-Scale Analysis"
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              },
+                                              "Alternative Detail Preservation": {
+                                                "label": "Alternative Detail Preservation"
+                                              }
+                                            }
+                                          },
+                                          "Supplementary Surface Enhancement": {
+                                            "label": "Supplementary Surface Enhancement"
+                                          }
+                                        }
+                                      },
+                                      "Alternative Topology Methods": {
+                                        "label": "Alternative Topology Methods"
+                                      }
+                                    }
+                                  },
+                                  "Supplementary Mesh Strategies": {
+                                    "label": "Supplementary Mesh Strategies"
+                                  }
+                                }
+                              },
+                              "Alternative Rendering Techniques": {
+                                "label": "Alternative Rendering Techniques"
+                              }
+                            }
+                          },
+                          "Supplementary Intraoral Scanning": {
+                            "label": "Supplementary Intraoral Scanning"
+                          }
+                        }
+                      },
+                      "Alternative Digital Impression Methods": {
+                        "label": "Alternative Digital Impression Methods"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "Digital Workflow": {
+            "label": "Digital Workflow",
+            "subcategories": {
+              "CAD/CAM Systems": {
+                "label": "CAD/CAM Systems",
+                "subcategories": {
+                  "Design Software": {
+                    "label": "Design Software",
+                    "subcategories": {
+                      "Virtual Articulation": {
+                        "label": "Virtual Articulation",
+                        "subcategories": {
+                          "Occlusal Analysis": {
+                            "label": "Occlusal Analysis",
+                            "subcategories": {
+                              "3D Simulation": {
+                                "label": "3D Simulation",
+                                "subcategories": {
+                                  "Dynamic Bite Modeling": {
+                                    "label": "Dynamic Bite Modeling",
+                                    "subcategories": {
+                                      "Temporal Calibration": {
+                                        "label": "Temporal Calibration",
+                                        "subcategories": {
+                                          "Kinematic Analysis": {
+                                            "label": "Kinematic Analysis",
+                                            "subcategories": {
+                                              "Motion Tracking": {
+                                                "label": "Motion Tracking",
+                                                "subcategories": {
+                                                  "Frame Rate Optimization": {
+                                                    "label": "Frame Rate Optimization",
+                                                    "subcategories": {
+                                                      "Trajectory Analysis": {
+                                                        "label": "Trajectory Analysis",
+                                                        "subcategories": {
+                                                          "Sub-Frame Analysis": {
+                                                            "label": "Sub-Frame Analysis",
+                                                            "subcategories": {
+                                                              "Micro-Trajectory Refinement": {
+                                                                "label": "Micro-Trajectory Refinement",
+                                                                "subcategories": {
+                                                                  "Nano Trajectory Calibration": {
+                                                                    "label": "Nano Trajectory Calibration",
+                                                                    "subcategories": {
+                                                                      "Quantum Motion Analysis": {
+                                                                        "label": "Quantum Motion Analysis",
+                                                                        "subcategories": {
+                                                                          "Subatomic Movement Detection": {
+                                                                            "label": "Subatomic Movement Detection",
+                                                                            "subcategories": {
+                                                                              "Quantum Dynamics Evaluation": {
+                                                                                "label": "Quantum Dynamics Evaluation",
+                                                                                "subcategories": {
+                                                                                  "Atomic Frame Synthesis": {
+                                                                                    "label": "Atomic Frame Synthesis",
+                                                                                    "subcategories": {
+                                                                                      "Quantum Articulation Refinement": {
+                                                                                        "label": "Quantum Articulation Refinement",
+                                                                                        "subcategories": {
+                                                                                          "Alternative Frame Integration": {
+                                                                                            "label": "Alternative Frame Integration"
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              },
+                                                              "Supplementary Trajectory Analysis": {
+                                                                "label": "Supplementary Trajectory Analysis"
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      },
+                                                      "Alternative Frame Optimization": {
+                                                        "label": "Alternative Frame Optimization"
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              },
+                                              "Supplementary Motion Capture": {
+                                                "label": "Supplementary Motion Capture"
+                                              }
+                                            }
+                                          },
+                                          "Alternative Kinematic Techniques": {
+                                            "label": "Alternative Kinematic Techniques"
+                                          }
+                                        }
+                                      },
+                                      "Supplementary Dynamic Modeling": {
+                                        "label": "Supplementary Dynamic Modeling"
+                                      }
+                                    }
+                                  },
+                                  "Alternative 3D Simulation": {
+                                    "label": "Alternative 3D Simulation"
+                                  }
+                                }
+                              },
+                              "Supplementary Occlusal Strategies": {
+                                "label": "Supplementary Occlusal Strategies"
+                              }
+                            }
+                          },
+                          "Alternative Virtual Articulation": {
+                            "label": "Alternative Virtual Articulation"
+                          }
+                        }
+                      },
+                      "Supplementary Design Software": {
+                        "label": "Supplementary Design Software"
+                      }
+                    }
+                  },
+                  "Alternative CAD/CAM Approaches": {
+                    "label": "Alternative CAD/CAM Approaches"
+                  }
+                }
+              },
+              "Workflow Optimization": {
+                "label": "Workflow Optimization",
+                "subcategories": {
+                  "Digital Scheduling": {
+                    "label": "Digital Scheduling",
+                    "subcategories": {
+                      "Automated Appointment Systems": {
+                        "label": "Automated Appointment Systems"
+                      },
+                      "Resource Allocation": {
+                        "label": "Resource Allocation"
+                      }
+                    }
+                  },
+                  "Real-Time Collaboration": {
+                    "label": "Real-Time Collaboration",
+                    "subcategories": {
+                      "Cloud-Based Integration": {
+                        "label": "Cloud-Based Integration"
+                      },
+                      "Multi-User Interfaces": {
+                        "label": "Multi-User Interfaces"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Dental Healthcare": {
+        "label": "Dental Healthcare",
+        "subcategories": {
+          "Preventive Dentistry": {
+            "label": "Preventive Dentistry",
+            "subcategories": {
+              "Oral Hygiene Strategies": {
+                "label": "Oral Hygiene Strategies",
+                "subcategories": {
+                  "Fluoride Application": {
+                    "label": "Fluoride Application",
+                    "subcategories": {
+                      "Topical Treatments": {
+                        "label": "Topical Treatments",
+                        "subcategories": {
+                          "Custom Delivery Systems": {
+                            "label": "Custom Delivery Systems",
+                            "subcategories": {
+                              "Tray Fabrication": {
+                                "label": "Tray Fabrication",
+                                "subcategories": {
+                                  "Material Selection": {
+                                    "label": "Material Selection",
+                                    "subcategories": {
+                                      "Polymer Science": {
+                                        "label": "Polymer Science",
+                                        "subcategories": {
+                                          "Biocompatibility Testing": {
+                                            "label": "Biocompatibility Testing",
+                                            "subcategories": {
+                                              "Chemical Stability": {
+                                                "label": "Chemical Stability",
+                                                "subcategories": {
+                                                  "In-Vitro Models": {
+                                                    "label": "In-Vitro Models",
+                                                    "subcategories": {
+                                                      "Dynamic Flow Simulation": {
+                                                        "label": "Dynamic Flow Simulation",
+                                                        "subcategories": {
+                                                          "Dosage Release Kinetics": {
+                                                            "label": "Dosage Release Kinetics",
+                                                            "subcategories": {
+                                                              "Mathematical Modeling": {
+                                                                "label": "Mathematical Modeling",
+                                                                "subcategories": {
+                                                                  "Parameter Sensitivity": {
+                                                                    "label": "Parameter Sensitivity",
+                                                                    "subcategories": {
+                                                                      "Fine-Tuning Protocols": {
+                                                                        "label": "Fine-Tuning Protocols",
+                                                                        "subcategories": {
+                                                                          "Micro-Dosage Adjustments": {
+                                                                            "label": "Micro-Dosage Adjustments",
+                                                                            "subcategories": {
+                                                                              "Temporal Release Schedules": {
+                                                                                "label": "Temporal Release Schedules",
+                                                                                "subcategories": {
+                                                                                  "Kinetic Parameter Calibration": {
+                                                                                    "label": "Kinetic Parameter Calibration",
+                                                                                    "subcategories": {
+                                                                                      "Ultra-Fine Adjustment": {
+                                                                                        "label": "Ultra-Fine Adjustment",
+                                                                                        "subcategories": {
+                                                                                          "Molecular Level Tuning": {
+                                                                                            "label": "Molecular Level Tuning",
+                                                                                            "subcategories": {
+                                                                                              "Atomic Bonding Optimization": {
+                                                                                                "label": "Atomic Bonding Optimization",
+                                                                                                "subcategories": {
+                                                                                                  "Subatomic Force Alignment": {
+                                                                                                    "label": "Subatomic Force Alignment",
+                                                                                                    "subcategories": {
+                                                                                                      "Quantum Interaction Analysis": {
+                                                                                                        "label": "Quantum Interaction Analysis",
+                                                                                                        "subcategories": {
+                                                                                                          "Particle Collision Modeling": {
+                                                                                                            "label": "Particle Collision Modeling",
+                                                                                                            "subcategories": {
+                                                                                                              "Quantum Field Calibration": {
+                                                                                                                "label": "Quantum Field Calibration",
+                                                                                                                "subcategories": {
+                                                                                                                  "Sub-Quantum Signal Adjustment": {
+                                                                                                                    "label": "Sub-Quantum Signal Adjustment",
+                                                                                                                    "subcategories": {
+                                                                                                                      "Ultra-Precise Molecular Scaling": {
+                                                                                                                        "label": "Ultra-Precise Molecular Scaling"
+                                                                                                                      }
+                                                                                                                    }
+                                                                                                                  }
+                                                                                                                }
+                                                                                                              }
+                                                                                                            }
+                                                                                                          }
+                                                                                                        }
+                                                                                                      }
+                                                                                                    }
+                                                                                                  },
+                                                                                                  "Alternative Atomic Optimization": {
+                                                                                                    "label": "Alternative Atomic Optimization"
+                                                                                                  }
+                                                                                                }
+                                                                                              }
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              },
+                                                                              "Supplementary Release Modeling": {
+                                                                                "label": "Supplementary Release Modeling"
+                                                                              }
+                                                                            }
+                                                                          },
+                                                                          "Alternative Dosage Strategies": {
+                                                                            "label": "Alternative Dosage Strategies"
+                                                                          }
+                                                                        }
+                                                                      },
+                                                                      "Supplementary Sensitivity Analysis": {
+                                                                        "label": "Supplementary Sensitivity Analysis"
+                                                                      }
+                                                                    }
+                                                                  },
+                                                                  "Alternative Mathematical Models": {
+                                                                    "label": "Alternative Mathematical Models"
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          },
+                                                          "Alternative Kinetic Studies": {
+                                                            "label": "Alternative Kinetic Studies"
+                                                          }
+                                                        }
+                                                      },
+                                                      "Supplementary Flow Dynamics": {
+                                                        "label": "Supplementary Flow Dynamics"
+                                                      }
+                                                    }
+                                                  },
+                                                  "Alternative In-Vitro Approaches": {
+                                                    "label": "Alternative In-Vitro Approaches"
+                                                  }
+                                                }
+                                              },
+                                              "Supplementary Chemical Testing": {
+                                                "label": "Supplementary Chemical Testing"
+                                              }
+                                            }
+                                          },
+                                          "Alternative Polymer Research": {
+                                            "label": "Alternative Polymer Research"
+                                          }
+                                        }
+                                      },
+                                      "Supplementary Material Analysis": {
+                                        "label": "Supplementary Material Analysis"
+                                      }
+                                    }
+                                  },
+                                  "Alternative Tray Designs": {
+                                    "label": "Alternative Tray Designs"
+                                  }
+                                }
+                              },
+                              "Supplementary Custom Systems": {
+                                "label": "Supplementary Custom Systems"
+                              }
+                            }
+                          },
+                          "Alternative Topical Formulations": {
+                            "label": "Alternative Topical Formulations"
+                          }
+                        }
+                      },
+                      "Supplementary Fluoride Techniques": {
+                        "label": "Supplementary Fluoride Techniques"
+                      }
+                    }
+                  },
+                  "Oral Health Education": {
+                    "label": "Oral Health Education",
+                    "subcategories": {
+                      "Preventive Campaigns": {
+                        "label": "Preventive Campaigns",
+                        "subcategories": {
+                          "Behavioral Change Strategies": {
+                            "label": "Behavioral Change Strategies",
+                            "subcategories": {
+                              "Motivational Interviewing": {
+                                "label": "Motivational Interviewing",
+                                "subcategories": {
+                                  "Outcome Measurement": {
+                                    "label": "Outcome Measurement",
+                                    "subcategories": {
+                                      "Survey Methodologies": {
+                                        "label": "Survey Methodologies",
+                                        "subcategories": {
+                                          "Impact Assessment": {
+                                            "label": "Impact Assessment",
+                                            "subcategories": {
+                                              "Longitudinal Impact Studies": {
+                                                "label": "Longitudinal Impact Studies",
+                                                "subcategories": {
+                                                  "Behavioral Metrics Analysis": {
+                                                    "label": "Behavioral Metrics Analysis",
+                                                    "subcategories": {
+                                                      "Granular Data Collection": {
+                                                        "label": "Granular Data Collection",
+                                                        "subcategories": {
+                                                          "Micro Survey Techniques": {
+                                                            "label": "Micro Survey Techniques",
+                                                            "subcategories": {
+                                                              "Nano Response Calibration": {
+                                                                "label": "Nano Response Calibration",
+                                                                "subcategories": {
+                                                                  "Quantum Feedback Integration": {
+                                                                    "label": "Quantum Feedback Integration",
+                                                                    "subcategories": {
+                                                                      "Subatomic Outcome Optimization": {
+                                                                        "label": "Subatomic Outcome Optimization"
+                                                                      },
+                                                                      "Alternative Outcome Strategies": {
+                                                                        "label": "Alternative Outcome Strategies"
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          },
+                                                          "Alternative Data Collection": {
+                                                            "label": "Alternative Data Collection"
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  "Supplementary Impact Metrics": {
+                                                    "label": "Supplementary Impact Metrics"
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          },
+                                          "Alternative Survey Techniques": {
+                                            "label": "Alternative Survey Techniques"
+                                          }
+                                        }
+                                      },
+                                      "Supplementary Outcome Measurements": {
+                                        "label": "Supplementary Outcome Measurements"
+                                      }
+                                    }
+                                  },
+                                  "Alternative Motivational Methods": {
+                                    "label": "Alternative Motivational Methods"
+                                  }
+                                }
+                              },
+                              "Supplementary Behavioral Strategies": {
+                                "label": "Supplementary Behavioral Strategies"
+                              }
+                            }
+                          },
+                          "Alternative Preventive Campaigns": {
+                            "label": "Alternative Preventive Campaigns"
+                          }
+                        }
+                      },
+                      "Supplementary Oral Education": {
+                        "label": "Supplementary Oral Education"
+                      }
+                    }
+                  }
+                }
+              },
+              "Community Dental Health": {
+                "label": "Community Dental Health",
+                "subcategories": {
+                  "Public Health Initiatives": {
+                    "label": "Public Health Initiatives",
+                    "subcategories": {
+                      "Access to Care Programs": {
+                        "label": "Access to Care Programs",
+                        "subcategories": {
+                          "Mobile Dental Clinics": {
+                            "label": "Mobile Dental Clinics",
+                            "subcategories": {
+                              "Service Delivery Optimization": {
+                                "label": "Service Delivery Optimization",
+                                "subcategories": {
+                                  "Resource Allocation Strategies": {
+                                    "label": "Resource Allocation Strategies",
+                                    "subcategories": {
+                                      "Community Outreach Evaluation": {
+                                        "label": "Community Outreach Evaluation",
+                                        "subcategories": {
+                                          "Impact Metrics Development": {
+                                            "label": "Impact Metrics Development",
+                                            "subcategories": {
+                                              "Data-Driven Policy Adjustments": {
+                                                "label": "Data-Driven Policy Adjustments"
+                                              },
+                                              "Alternative Impact Strategies": {
+                                                "label": "Alternative Impact Strategies"
+                                              }
+                                            }
+                                          }
+                                        }
+                                      },
+                                      "Alternative Resource Models": {
+                                        "label": "Alternative Resource Models"
+                                      }
+                                    }
+                                  },
+                                  "Supplementary Service Analysis": {
+                                    "label": "Supplementary Service Analysis"
+                                  }
+                                }
+                              },
+                              "Alternative Mobile Strategies": {
+                                "label": "Alternative Mobile Strategies"
+                              }
+                            }
+                          },
+                          "Supplementary Access Programs": {
+                            "label": "Supplementary Access Programs"
+                          }
+                        }
+                      },
+                      "Alternative Public Health Initiatives": {
+                        "label": "Alternative Public Health Initiatives"
+                      }
+                    }
+                  },
+                  "Supplementary Community Health": {
+                    "label": "Supplementary Community Health"
+                  }
+                }
+              },
+              "Restorative Dentistry": {
+                "label": "Restorative Dentistry",
+                "subcategories": {
+                  "Direct Restorations": {
+                    "label": "Direct Restorations",
+                    "subcategories": {
+                      "Composite Resin Techniques": {
+                        "label": "Composite Resin Techniques",
+                        "subcategories": {
+                          "Layering Methods": {
+                            "label": "Layering Methods",
+                            "subcategories": {
+                              "Incremental Build-Up": {
+                                "label": "Incremental Build-Up",
+                                "subcategories": {
+                                  "Light-Curing Optimization": {
+                                    "label": "Light-Curing Optimization",
+                                    "subcategories": {
+                                      "Polymerization Kinetics": {
+                                        "label": "Polymerization Kinetics",
+                                        "subcategories": {
+                                          "Shrinkage Stress Reduction": {
+                                            "label": "Shrinkage Stress Reduction",
+                                            "subcategories": {
+                                              "Stress Distribution Modeling": {
+                                                "label": "Stress Distribution Modeling",
+                                                "subcategories": {
+                                                  "Finite Element Analysis": {
+                                                    "label": "Finite Element Analysis",
+                                                    "subcategories": {
+                                                      "Mesh Refinement Techniques": {
+                                                        "label": "Mesh Refinement Techniques",
+                                                        "subcategories": {
+                                                          "Algorithmic Smoothing": {
+                                                            "label": "Algorithmic Smoothing",
+                                                            "subcategories": {
+                                                              "Computational Simulation": {
+                                                                "label": "Computational Simulation",
+                                                                "subcategories": {
+                                                                  "Iterative Simulation Modeling": {
+                                                                    "label": "Iterative Simulation Modeling",
+                                                                    "subcategories": {
+                                                                      "Sub-Micron Process Optimization": {
+                                                                        "label": "Sub-Micron Process Optimization",
+                                                                        "subcategories": {
+                                                                          "Nano Structural Analysis": {
+                                                                            "label": "Nano Structural Analysis",
+                                                                            "subcategories": {
+                                                                              "Atomic Bonding Simulation": {
+                                                                                "label": "Atomic Bonding Simulation",
+                                                                                "subcategories": {
+                                                                                  "Quantum Molecular Modeling": {
+                                                                                    "label": "Quantum Molecular Modeling",
+                                                                                    "subcategories": {
+                                                                                      "Subatomic Interaction Analysis": {
+                                                                                        "label": "Subatomic Interaction Analysis",
+                                                                                        "subcategories": {
+                                                                                          "Quantum Chemical Dynamics": {
+                                                                                            "label": "Quantum Chemical Dynamics",
+                                                                                            "subcategories": {
+                                                                                              "Electron Cloud Optimization": {
+                                                                                                "label": "Electron Cloud Optimization",
+                                                                                                "subcategories": {
+                                                                                                  "Molecular Orbital Refinement": {
+                                                                                                    "label": "Molecular Orbital Refinement",
+                                                                                                    "subcategories": {
+                                                                                                      "Hyperfine Structure Analysis": {
+                                                                                                        "label": "Hyperfine Structure Analysis",
+                                                                                                        "subcategories": {
+                                                                                                          "Subatomic Energy Distribution": {
+                                                                                                            "label": "Subatomic Energy Distribution"
+                                                                                                          },
+                                                                                                          "Alternative Orbital Methods": {
+                                                                                                            "label": "Alternative Orbital Methods"
+                                                                                                          }
+                                                                                                        }
+                                                                                                      }
+                                                                                                    }
+                                                                                                  }
+                                                                                                }
+                                                                                              }
+                                                                                            }
+                                                                                          },
+                                                                                          "Supplementary Chemical Modeling": {
+                                                                                            "label": "Supplementary Chemical Modeling"
+                                                                                          }
+                                                                                        }
+                                                                                      },
+                                                                                      "Alternative Molecular Approaches": {
+                                                                                        "label": "Alternative Molecular Approaches"
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          },
+                                                                          "Supplementary Nano Optimization": {
+                                                                            "label": "Supplementary Nano Optimization"
+                                                                          }
+                                                                        }
+                                                                      },
+                                                                      "Alternative Simulation Techniques": {
+                                                                        "label": "Alternative Simulation Techniques"
+                                                                      }
+                                                                    }
+                                                                  },
+                                                                  "Supplementary Computational Methods": {
+                                                                    "label": "Supplementary Computational Methods"
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          },
+                                                          "Alternative Mesh Strategies": {
+                                                            "label": "Alternative Mesh Strategies"
+                                                          }
+                                                        }
+                                                      },
+                                                      "Supplementary Finite Element Methods": {
+                                                        "label": "Supplementary Finite Element Methods"
+                                                      }
+                                                    }
+                                                  },
+                                                  "Alternative Stress Modeling": {
+                                                    "label": "Alternative Stress Modeling"
+                                                  }
+                                                }
+                                              },
+                                              "Supplementary Shrinkage Reduction": {
+                                                "label": "Supplementary Shrinkage Reduction"
+                                              }
+                                            }
+                                          },
+                                          "Alternative Kinetic Approaches": {
+                                            "label": "Alternative Kinetic Approaches"
+                                          }
+                                        }
+                                      },
+                                      "Supplementary Light-Curing Strategies": {
+                                        "label": "Supplementary Light-Curing Strategies"
+                                      }
+                                    }
+                                  },
+                                  "Alternative Incremental Techniques": {
+                                    "label": "Alternative Incremental Techniques"
+                                  }
+                                }
+                              },
+                              "Supplementary Layering Methods": {
+                                "label": "Supplementary Layering Methods"
+                              }
+                            }
+                          },
+                          "Alternative Composite Techniques": {
+                            "label": "Alternative Composite Techniques"
+                          }
+                        }
+                      },
+                      "Supplementary Direct Restoration Approaches": {
+                        "label": "Supplementary Direct Restoration Approaches"
+                      }
+                    }
+                  },
+                  "Indirect Restorations": {
+                    "label": "Indirect Restorations",
+                    "subcategories": {
+                      "Ceramic Fabrication": {
+                        "label": "Ceramic Fabrication",
+                        "subcategories": {
+                          "Digital Scanning Integration": {
+                            "label": "Digital Scanning Integration",
+                            "subcategories": {
+                              "CAD Modeling": {
+                                "label": "CAD Modeling",
+                                "subcategories": {
+                                  "3D Design Algorithms": {
+                                    "label": "3D Design Algorithms",
+                                    "subcategories": {
+                                      "Surface Mesh Generation": {
+                                        "label": "Surface Mesh Generation",
+                                        "subcategories": {
+                                          "Topology Optimization": {
+                                            "label": "Topology Optimization",
+                                            "subcategories": {
+                                              "Design Iteration": {
+                                                "label": "Design Iteration",
+                                                "subcategories": {
+                                                  "Prototype Validation": {
+                                                    "label": "Prototype Validation",
+                                                    "subcategories": {
+                                                      "Material Stress Testing": {
+                                                        "label": "Material Stress Testing",
+                                                        "subcategories": {
+                                                          "Fracture Resistance Evaluation": {
+                                                            "label": "Fracture Resistance Evaluation"
+                                                          },
+                                                          "Supplementary Stress Analysis": {
+                                                            "label": "Supplementary Stress Analysis"
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  "Alternative Iterative Methods": {
+                                                    "label": "Alternative Iterative Methods"
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          },
+                                          "Supplementary Mesh Refinement": {
+                                            "label": "Supplementary Mesh Refinement"
+                                          }
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "Alternative CAD Approaches": {
+                                    "label": "Alternative CAD Approaches"
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "Supplementary Ceramic Processes": {
+                            "label": "Supplementary Ceramic Processes"
+                          }
+                        }
+                      },
+                      "Supplementary Indirect Restoration Techniques": {
+                        "label": "Supplementary Indirect Restoration Techniques"
+                      }
+                    }
+                  }
+                }
+              },
+              "Periodontics": {
+                "label": "Periodontics",
+                "subcategories": {
+                  "Gingival Therapies": {
+                    "label": "Gingival Therapies",
+                    "subcategories": {
+                      "Scaling and Root Planing": {
+                        "label": "Scaling and Root Planing",
+                        "subcategories": {
+                          "Ultrasonic Instrumentation": {
+                            "label": "Ultrasonic Instrumentation",
+                            "subcategories": {
+                              "Device Calibration": {
+                                "label": "Device Calibration",
+                                "subcategories": {
+                                  "Frequency Optimization": {
+                                    "label": "Frequency Optimization",
+                                    "subcategories": {
+                                      "Power Modulation": {
+                                        "label": "Power Modulation",
+                                        "subcategories": {
+                                          "Energy Distribution Analysis": {
+                                            "label": "Energy Distribution Analysis",
+                                            "subcategories": {
+                                              "Acoustic Waveform Characterization": {
+                                                "label": "Acoustic Waveform Characterization",
+                                                "subcategories": {
+                                                  "Signal Processing Techniques": {
+                                                    "label": "Signal Processing Techniques",
+                                                    "subcategories": {
+                                                      "Fourier Transform Analysis": {
+                                                        "label": "Fourier Transform Analysis",
+                                                        "subcategories": {
+                                                          "Frequency Domain Filtering": {
+                                                            "label": "Frequency Domain Filtering",
+                                                            "subcategories": {
+                                                              "Noise Suppression Algorithms": {
+                                                                "label": "Noise Suppression Algorithms",
+                                                                "subcategories": {
+                                                                  "Advanced Filtering Methods": {
+                                                                    "label": "Advanced Filtering Methods",
+                                                                    "subcategories": {
+                                                                      "Sub-Nano Frequency Analysis": {
+                                                                        "label": "Sub-Nano Frequency Analysis",
+                                                                        "subcategories": {
+                                                                          "Quantum Vibration Modulation": {
+                                                                            "label": "Quantum Vibration Modulation",
+                                                                            "subcategories": {
+                                                                              "Atomic Wave Interference": {
+                                                                                "label": "Atomic Wave Interference",
+                                                                                "subcategories": {
+                                                                                  "Subatomic Acoustic Calibration": {
+                                                                                    "label": "Subatomic Acoustic Calibration"
+                                                                                  }
+                                                                                }
+                                                                              },
+                                                                              "Supplementary Vibration Analysis": {
+                                                                                "label": "Supplementary Vibration Analysis"
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      },
+                                                                      "Alternative Filtering Techniques": {
+                                                                        "label": "Alternative Filtering Techniques"
+                                                                      }
+                                                                    }
+                                                                  },
+                                                                  "Supplementary Noise Reduction": {
+                                                                    "label": "Supplementary Noise Reduction"
+                                                                  }
+                                                                }
+                                                              },
+                                                              "Alternative Domain Filtering": {
+                                                                "label": "Alternative Domain Filtering"
+                                                              }
+                                                            }
+                                                          },
+                                                          "Supplementary Fourier Methods": {
+                                                            "label": "Supplementary Fourier Methods"
+                                                          }
+                                                        }
+                                                      },
+                                                      "Alternative Signal Processing": {
+                                                        "label": "Alternative Signal Processing"
+                                                      }
+                                                    }
+                                                  },
+                                                  "Supplementary Waveform Analysis": {
+                                                    "label": "Supplementary Waveform Analysis"
+                                                  }
+                                                }
+                                              },
+                                              "Alternative Energy Analysis": {
+                                                "label": "Alternative Energy Analysis"
+                                              }
+                                            }
+                                          },
+                                          "Supplementary Power Strategies": {
+                                            "label": "Supplementary Power Strategies"
+                                          }
+                                        }
+                                      },
+                                      "Alternative Frequency Strategies": {
+                                        "label": "Alternative Frequency Strategies"
+                                      }
+                                    }
+                                  },
+                                  "Supplementary Device Calibration": {
+                                    "label": "Supplementary Device Calibration"
+                                  }
+                                }
+                              },
+                              "Alternative Ultrasonic Techniques": {
+                                "label": "Alternative Ultrasonic Techniques"
+                              }
+                            }
+                          },
+                          "Supplementary Scaling Techniques": {
+                            "label": "Supplementary Scaling Techniques"
+                          }
+                        }
+                      },
+                      "Alternative Gingival Therapies": {
+                        "label": "Alternative Gingival Therapies"
+                      }
+                    }
+                  },
+                  "Supplementary Periodontal Approaches": {
+                    "label": "Supplementary Periodontal Approaches"
+                  }
+                }
+              },
+              "Alternative Dental Healthcare Strategies": {
+                "label": "Alternative Dental Healthcare Strategies"
+              }
+            }
+          },
+          "Alternative Oral Surgery": {
+            "label": "Alternative Oral Surgery"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,508 @@
+{
+  "Dentistry": {
+    "label": "Dentistry",
+    "subcategories": {
+      "Dental Informatics": {
+        "label": "Dental Informatics",
+        "subcategories": {
+          "Electronic Health Records": {
+            "label": "Electronic Health Records",
+            "subcategories": {
+              "Data Management": {
+                "label": "Data Management",
+                "subcategories": {
+                  "Data Validation": {
+                    "label": "Data Validation",
+                    "subcategories": {
+                      "Real-Time Monitoring": {
+                        "label": "Real-Time Monitoring",
+                        "subcategories": {
+                          "Automated Error Checking": {
+                            "label": "Automated Error Checking",
+                            "subcategories": {
+                              "Algorithmic Verification": {
+                                "label": "Algorithmic Verification",
+                                "subcategories": {
+                                  "Pattern Recognition": {
+                                    "label": "Pattern Recognition",
+                                    "subcategories": {
+                                      "Neural Network Models": {
+                                        "label": "Neural Network Models",
+                                        "subcategories": {
+                                          "Backpropagation Techniques": {
+                                            "label": "Backpropagation Techniques",
+                                            "subcategories": {
+                                              "Gradient Descent Optimization": {
+                                                "label": "Gradient Descent Optimization",
+                                                "subcategories": {
+                                                  "Learning Rate Adjustments": {
+                                                    "label": "Learning Rate Adjustments",
+                                                    "subcategories": {
+                                                      "Convergence Analysis": {
+                                                        "label": "Convergence Analysis",
+                                                        "subcategories": {
+                                                          "Iterative Refinement": {
+                                                            "label": "Iterative Refinement",
+                                                            "subcategories": {
+                                                              "Optimization Benchmarks": {
+                                                                "label": "Optimization Benchmarks",
+                                                                "subcategories": {
+                                                                  "Accuracy Metrics": {
+                                                                    "label": "Accuracy Metrics",
+                                                                    "subcategories": {
+                                                                      "Statistical Performance Testing": {
+                                                                        "label": "Statistical Performance Testing",
+                                                                        "subcategories": {
+                                                                          "Micro-Performance Analysis": {
+                                                                            "label": "Micro-Performance Analysis"
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Digital Dentistry": {
+        "label": "Digital Dentistry",
+        "subcategories": {
+          "3D Technologies": {
+            "label": "3D Technologies",
+            "subcategories": {
+              "3D Imaging": {
+                "label": "3D Imaging",
+                "subcategories": {
+                  "Cone Beam CT": {
+                    "label": "Cone Beam CT",
+                    "subcategories": {
+                      "Image Acquisition": {
+                        "label": "Image Acquisition",
+                        "subcategories": {
+                          "Voxel Optimization": {
+                            "label": "Voxel Optimization",
+                            "subcategories": {
+                              "Resolution Calibration": {
+                                "label": "Resolution Calibration",
+                                "subcategories": {
+                                  "Algorithm Tuning": {
+                                    "label": "Algorithm Tuning",
+                                    "subcategories": {
+                                      "Contrast Enhancement": {
+                                        "label": "Contrast Enhancement",
+                                        "subcategories": {
+                                          "Noise Reduction": {
+                                            "label": "Noise Reduction",
+                                            "subcategories": {
+                                              "Filtering Techniques": {
+                                                "label": "Filtering Techniques",
+                                                "subcategories": {
+                                                  "Edge Detection": {
+                                                    "label": "Edge Detection",
+                                                    "subcategories": {
+                                                      "Feature Extraction": {
+                                                        "label": "Feature Extraction",
+                                                        "subcategories": {
+                                                          "Deep Learning Integration": {
+                                                            "label": "Deep Learning Integration",
+                                                            "subcategories": {
+                                                              "Neural Network Training": {
+                                                                "label": "Neural Network Training",
+                                                                "subcategories": {
+                                                                  "Backpropagation Optimization": {
+                                                                    "label": "Backpropagation Optimization",
+                                                                    "subcategories": {
+                                                                      "Convergence Monitoring": {
+                                                                        "label": "Convergence Monitoring",
+                                                                        "subcategories": {
+                                                                          "Model Refinement": {
+                                                                            "label": "Model Refinement"
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "Digital Impressions": {
+                    "label": "Digital Impressions",
+                    "subcategories": {
+                      "Intraoral Scanning": {
+                        "label": "Intraoral Scanning",
+                        "subcategories": {
+                          "Surface Rendering": {
+                            "label": "Surface Rendering",
+                            "subcategories": {
+                              "Mesh Generation": {
+                                "label": "Mesh Generation",
+                                "subcategories": {
+                                  "Topology Optimization": {
+                                    "label": "Topology Optimization",
+                                    "subcategories": {
+                                      "Surface Smoothing": {
+                                        "label": "Surface Smoothing",
+                                        "subcategories": {
+                                          "Detail Preservation": {
+                                            "label": "Detail Preservation",
+                                            "subcategories": {
+                                              "Algorithmic Enhancement": {
+                                                "label": "Algorithmic Enhancement"
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "Digital Workflow": {
+            "label": "Digital Workflow",
+            "subcategories": {
+              "CAD/CAM Systems": {
+                "label": "CAD/CAM Systems",
+                "subcategories": {
+                  "Design Software": {
+                    "label": "Design Software",
+                    "subcategories": {
+                      "Virtual Articulation": {
+                        "label": "Virtual Articulation",
+                        "subcategories": {
+                          "Occlusal Analysis": {
+                            "label": "Occlusal Analysis",
+                            "subcategories": {
+                              "3D Simulation": {
+                                "label": "3D Simulation",
+                                "subcategories": {
+                                  "Dynamic Bite Modeling": {
+                                    "label": "Dynamic Bite Modeling",
+                                    "subcategories": {
+                                      "Temporal Calibration": {
+                                        "label": "Temporal Calibration",
+                                        "subcategories": {
+                                          "Kinematic Analysis": {
+                                            "label": "Kinematic Analysis",
+                                            "subcategories": {
+                                              "Motion Tracking": {
+                                                "label": "Motion Tracking",
+                                                "subcategories": {
+                                                  "Frame Rate Optimization": {
+                                                    "label": "Frame Rate Optimization",
+                                                    "subcategories": {
+                                                      "Trajectory Analysis": {
+                                                        "label": "Trajectory Analysis"
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Dental Healthcare": {
+        "label": "Dental Healthcare",
+        "subcategories": {
+          "Preventive Dentistry": {
+            "label": "Preventive Dentistry",
+            "subcategories": {
+              "Oral Hygiene Strategies": {
+                "label": "Oral Hygiene Strategies",
+                "subcategories": {
+                  "Fluoride Application": {
+                    "label": "Fluoride Application",
+                    "subcategories": {
+                      "Topical Treatments": {
+                        "label": "Topical Treatments",
+                        "subcategories": {
+                          "Custom Delivery Systems": {
+                            "label": "Custom Delivery Systems",
+                            "subcategories": {
+                              "Tray Fabrication": {
+                                "label": "Tray Fabrication",
+                                "subcategories": {
+                                  "Material Selection": {
+                                    "label": "Material Selection",
+                                    "subcategories": {
+                                      "Polymer Science": {
+                                        "label": "Polymer Science",
+                                        "subcategories": {
+                                          "Biocompatibility Testing": {
+                                            "label": "Biocompatibility Testing",
+                                            "subcategories": {
+                                              "Chemical Stability": {
+                                                "label": "Chemical Stability",
+                                                "subcategories": {
+                                                  "In-Vitro Models": {
+                                                    "label": "In-Vitro Models",
+                                                    "subcategories": {
+                                                      "Dynamic Flow Simulation": {
+                                                        "label": "Dynamic Flow Simulation",
+                                                        "subcategories": {
+                                                          "Dosage Release Kinetics": {
+                                                            "label": "Dosage Release Kinetics",
+                                                            "subcategories": {
+                                                              "Mathematical Modeling": {
+                                                                "label": "Mathematical Modeling",
+                                                                "subcategories": {
+                                                                  "Parameter Sensitivity": {
+                                                                    "label": "Parameter Sensitivity",
+                                                                    "subcategories": {
+                                                                      "Fine-Tuning Protocols": {
+                                                                        "label": "Fine-Tuning Protocols",
+                                                                        "subcategories": {
+                                                                          "Micro-Dosage Adjustments": {
+                                                                            "label": "Micro-Dosage Adjustments",
+                                                                            "subcategories": {
+                                                                              "Temporal Release Schedules": {
+                                                                                "label": "Temporal Release Schedules",
+                                                                                "subcategories": {
+                                                                                  "Kinetic Parameter Calibration": {
+                                                                                    "label": "Kinetic Parameter Calibration"
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "Restorative Dentistry": {
+            "label": "Restorative Dentistry",
+            "subcategories": {
+              "Direct Restorations": {
+                "label": "Direct Restorations",
+                "subcategories": {
+                  "Composite Resin Techniques": {
+                    "label": "Composite Resin Techniques",
+                    "subcategories": {
+                      "Layering Methods": {
+                        "label": "Layering Methods",
+                        "subcategories": {
+                          "Incremental Build-Up": {
+                            "label": "Incremental Build-Up",
+                            "subcategories": {
+                              "Light-Curing Optimization": {
+                                "label": "Light-Curing Optimization",
+                                "subcategories": {
+                                  "Polymerization Kinetics": {
+                                    "label": "Polymerization Kinetics",
+                                    "subcategories": {
+                                      "Shrinkage Stress Reduction": {
+                                        "label": "Shrinkage Stress Reduction",
+                                        "subcategories": {
+                                          "Stress Distribution Modeling": {
+                                            "label": "Stress Distribution Modeling",
+                                            "subcategories": {
+                                              "Finite Element Analysis": {
+                                                "label": "Finite Element Analysis",
+                                                "subcategories": {
+                                                  "Mesh Refinement Techniques": {
+                                                    "label": "Mesh Refinement Techniques",
+                                                    "subcategories": {
+                                                      "Algorithmic Smoothing": {
+                                                        "label": "Algorithmic Smoothing",
+                                                        "subcategories": {
+                                                          "Computational Simulation": {
+                                                            "label": "Computational Simulation"
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "Periodontics": {
+            "label": "Periodontics",
+            "subcategories": {
+              "Gingival Therapies": {
+                "label": "Gingival Therapies",
+                "subcategories": {
+                  "Scaling and Root Planing": {
+                    "label": "Scaling and Root Planing",
+                    "subcategories": {
+                      "Ultrasonic Instrumentation": {
+                        "label": "Ultrasonic Instrumentation",
+                        "subcategories": {
+                          "Device Calibration": {
+                            "label": "Device Calibration",
+                            "subcategories": {
+                              "Frequency Optimization": {
+                                "label": "Frequency Optimization",
+                                "subcategories": {
+                                  "Power Modulation": {
+                                    "label": "Power Modulation",
+                                    "subcategories": {
+                                      "Energy Distribution Analysis": {
+                                        "label": "Energy Distribution Analysis",
+                                        "subcategories": {
+                                          "Acoustic Waveform Characterization": {
+                                            "label": "Acoustic Waveform Characterization",
+                                            "subcategories": {
+                                              "Signal Processing Techniques": {
+                                                "label": "Signal Processing Techniques",
+                                                "subcategories": {
+                                                  "Fourier Transform Analysis": {
+                                                    "label": "Fourier Transform Analysis",
+                                                    "subcategories": {
+                                                      "Frequency Domain Filtering": {
+                                                        "label": "Frequency Domain Filtering",
+                                                        "subcategories": {
+                                                          "Noise Suppression Algorithms": {
+                                                            "label": "Noise Suppression Algorithms",
+                                                            "subcategories": {
+                                                              "Advanced Filtering Methods": {
+                                                                "label": "Advanced Filtering Methods"
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
