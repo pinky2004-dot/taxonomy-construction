@@ -1,0 +1,584 @@
+{
+  "Dentistry": {
+    "Dental Informatics": {
+      "label": "Dental Informatics",
+      "subcategories": {
+        "Clinical Data Management": {
+          "label": "Clinical Data Management",
+          "subcategories": {
+            "Interoperability Frameworks": {
+              "label": "Interoperability Frameworks",
+              "subcategories": {
+                "FHIR Dental Extensions": {
+                  "label": "FHIR Dental Extensions",
+                  "subcategories": {
+                    "Procedure Code Mapping": {
+                      "label": "Procedure Code Mapping",
+                      "subcategories": {
+                        "SNODENT-CDT Crosswalk": {
+                          "label": "SNODENT-CDT Crosswalk",
+                          "subcategories": {
+                            "Automated Terminology Alignment": {
+                              "label": "Automated Terminology Alignment",
+                              "subcategories": {
+                                "Graph Neural Network Alignment": {
+                                  "label": "Graph Neural Network Alignment",
+                                  "subcategories": {
+                                    "Node Embedding Similarity": {
+                                      "label": "Node Embedding Similarity",
+                                      "subcategories": {
+                                        "Graph Attention Mechanisms": {
+                                          "label": "Graph Attention Mechanisms",
+                                          "subcategories": {
+                                            "Multi-Head Attention Layers": {
+                                              "label": "Multi-Head Attention Layers",
+                                              "subcategories": {
+                                                "Query-Key-Value Projections": {
+                                                  "label": "Query-Key-Value Projections",
+                                                  "subcategories": {
+                                                    "Dimensionality Reduction": {
+                                                      "label": "Dimensionality Reduction",
+                                                      "subcategories": {
+                                                        "Principal Component Analysis": {
+                                                          "label": "Principal Component Analysis",
+                                                          "subcategories": {
+                                                            "Eigenvalue Thresholding": {
+                                                              "label": "Eigenvalue Thresholding",
+                                                              "subcategories": {
+                                                                "Variance Retention Metrics": {
+                                                                  "label": "Variance Retention Metrics",
+                                                                  "subcategories": {
+                                                                    "Scree Plot Analysis": {
+                                                                      "label": "Scree Plot Analysis",
+                                                                      "subcategories": {
+                                                                        "Elbow Method Optimization": {
+                                                                          "label": "Elbow Method Optimization",
+                                                                          "subcategories": {
+                                                                            "Derivative-Based Thresholding": {
+                                                                              "label": "Derivative-Based Thresholding",
+                                                                              "subcategories": {
+                                                                                "Second-Derivative Peaks": {
+                                                                                  "label": "Second-Derivative Peaks"
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "Edge Prediction Optimization": {
+                                          "label": "Edge Prediction Optimization",
+                                          "subcategories": {
+                                            "Graph Convolutional Networks": {
+                                              "label": "Graph Convolutional Networks",
+                                              "subcategories": {
+                                                "Message Passing Algorithms": {
+                                                  "label": "Message Passing Algorithms",
+                                                  "subcategories": {
+                                                    "Aggregation Functions": {
+                                                      "label": "Aggregation Functions",
+                                                      "subcategories": {
+                                                        "Mean Pooling": {
+                                                          "label": "Mean Pooling",
+                                                          "subcategories": {
+                                                            "Weighted Averaging": {
+                                                              "label": "Weighted Averaging"
+                                                            }
+                                                          }
+                                                        },
+                                                        "Max Pooling": {
+                                                          "label": "Max Pooling",
+                                                          "subcategories": {
+                                                            "Non-Linear Activation": {
+                                                              "label": "Non-Linear Activation"
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "Patient Data Exchange": {
+                      "label": "Patient Data Exchange",
+                      "subcategories": {
+                        "Consent Management Protocols": {
+                          "label": "Consent Management Protocols",
+                          "subcategories": {
+                            "OAuth2 Scoped Authorization": {
+                              "label": "OAuth2 Scoped Authorization",
+                              "subcategories": {
+                                "Fine-Grained Access Tokens": {
+                                  "label": "Fine-Grained Access Tokens",
+                                  "subcategories": {
+                                    "Token Binding Mechanisms": {
+                                      "label": "Token Binding Mechanisms",
+                                      "subcategories": {
+                                        "HTTPS Token Binding": {
+                                          "label": "HTTPS Token Binding",
+                                          "subcategories": {
+                                            "Certificate Pinning": {
+                                              "label": "Certificate Pinning"
+                                            }
+                                          }
+                                        },
+                                        "Cryptographic Attestation": {
+                                          "label": "Cryptographic Attestation",
+                                          "subcategories": {
+                                            "Remote Attestation Protocols": {
+                                              "label": "Remote Attestation Protocols"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "HL7 v2 Integration": {
+                  "label": "HL7 v2 Integration",
+                  "subcategories": {
+                    "ADT Message Parsing": {
+                      "label": "ADT Message Parsing",
+                      "subcategories": {
+                        "Dental-Specific Segment Extensions": {
+                          "label": "Dental-Specific Segment Extensions",
+                          "subcategories": {
+                            "Custom Z-Segments": {
+                              "label": "Custom Z-Segments",
+                              "subcategories": {
+                                "Tooth Surface Coding": {
+                                  "label": "Tooth Surface Coding",
+                                  "subcategories": {
+                                    "FDI Notation Mapping": {
+                                      "label": "FDI Notation Mapping",
+                                      "subcategories": {
+                                        "Universal System Conversion": {
+                                          "label": "Universal System Conversion",
+                                          "subcategories": {
+                                            "Palmer Notation Bridging": {
+                                              "label": "Palmer Notation Bridging"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "Data Security Protocols": {
+              "label": "Data Security Protocols",
+              "subcategories": {
+                "Blockchain Auditing": {
+                  "label": "Blockchain Auditing",
+                  "subcategories": {
+                    "Immutable Audit Trails": {
+                      "label": "Immutable Audit Trails",
+                      "subcategories": {
+                        "Merkle Tree Validation": {
+                          "label": "Merkle Tree Validation",
+                          "subcategories": {
+                            "Parallel Hash Computation": {
+                              "label": "Parallel Hash Computation",
+                              "subcategories": {
+                                "GPU-Accelerated Hashing": {
+                                  "label": "GPU-Accelerated Hashing",
+                                  "subcategories": {
+                                    "CUDA Kernel Optimization": {
+                                      "label": "CUDA Kernel Optimization",
+                                      "subcategories": {
+                                        "Warp-Level Parallelism": {
+                                          "label": "Warp-Level Parallelism",
+                                          "subcategories": {
+                                            "Thread Block Scheduling": {
+                                              "label": "Thread Block Scheduling"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "Encryption Standards": {
+                  "label": "Encryption Standards",
+                  "subcategories": {
+                    "Homomorphic Encryption": {
+                      "label": "Homomorphic Encryption",
+                      "subcategories": {
+                        "Lattice-Based Cryptography": {
+                          "label": "Lattice-Based Cryptography",
+                          "subcategories": {
+                            "Ring-LWE Parameter Tuning": {
+                              "label": "Ring-LWE Parameter Tuning",
+                              "subcategories": {
+                                "Modulus Switching Techniques": {
+                                  "label": "Modulus Switching Techniques",
+                                  "subcategories": {
+                                    "Noise Growth Management": {
+                                      "label": "Noise Growth Management",
+                                      "subcategories": {
+                                        "Bootstrapping Frequency": {
+                                          "label": "Bootstrapping Frequency"
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Telehealth Integration": {
+          "label": "Telehealth Integration",
+          "subcategories": {
+            "Remote Diagnostics": {
+              "label": "Remote Diagnostics",
+              "subcategories": {
+                "Intraoral Camera Streaming": {
+                  "label": "Intraoral Camera Streaming",
+                  "subcategories": {
+                    "Latency Optimization": {
+                      "label": "Latency Optimization",
+                      "subcategories": {
+                        "WebRTC Protocol Tuning": {
+                          "label": "WebRTC Protocol Tuning",
+                          "subcategories": {
+                            "Adaptive Bitrate Algorithms": {
+                              "label": "Adaptive Bitrate Algorithms",
+                              "subcategories": {
+                                "Bufferbloat Mitigation": {
+                                  "label": "Bufferbloat Mitigation",
+                                  "subcategories": {
+                                    "CoDel AQM Implementation": {
+                                      "label": "CoDel AQM Implementation",
+                                      "subcategories": {
+                                        "Queue Delay Threshold Calibration": {
+                                          "label": "Queue Delay Threshold Calibration",
+                                          "subcategories": {
+                                            "Network Congestion Signatures": {
+                                              "label": "Network Congestion Signatures"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Digital Dentistry": {
+      "label": "Digital Dentistry",
+      "subcategories": {
+        "Advanced Imaging Systems": {
+          "label": "Advanced Imaging Systems",
+          "subcategories": {
+            "Cone Beam CT Artifact Reduction": {
+              "label": "Cone Beam CT Artifact Reduction",
+              "subcategories": {
+                "Iterative Reconstruction": {
+                  "label": "Iterative Reconstruction",
+                  "subcategories": {
+                    "Regularized Least Squares Solvers": {
+                      "label": "Regularized Least Squares Solvers",
+                      "subcategories": {
+                        "Total Variation Minimization": {
+                          "label": "Total Variation Minimization",
+                          "subcategories": {
+                            "Primal-Dual Hybrid Gradient": {
+                              "label": "Primal-Dual Hybrid Gradient",
+                              "subcategories": {
+                                "Convergence Acceleration": {
+                                  "label": "Convergence Acceleration",
+                                  "subcategories": {
+                                    "Nesterov Momentum": {
+                                      "label": "Nesterov Momentum",
+                                      "subcategories": {
+                                        "Step Size Adaptation": {
+                                          "label": "Step Size Adaptation"
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "AI-Driven Prosthetics": {
+          "label": "AI-Driven Prosthetics",
+          "subcategories": {
+            "3D Bioprinting Integration": {
+              "label": "3D Bioprinting Integration",
+              "subcategories": {
+                "Scaffold Porosity Optimization": {
+                  "label": "Scaffold Porosity Optimization",
+                  "subcategories": {
+                    "Voroni Tessellation Design": {
+                      "label": "Voroni Tessellation Design",
+                      "subcategories": {
+                        "Pore Connectivity Analysis": {
+                          "label": "Pore Connectivity Analysis",
+                          "subcategories": {
+                            "Persistent Homology Metrics": {
+                              "label": "Persistent Homology Metrics",
+                              "subcategories": {
+                                "Barcode Decomposition": {
+                                  "label": "Barcode Decomposition",
+                                  "subcategories": {
+                                    "Persistence Diagram Analysis": {
+                                      "label": "Persistence Diagram Analysis",
+                                      "subcategories": {
+                                        "Topological Feature Extraction": {
+                                          "label": "Topological Feature Extraction"
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "Occlusal Force Simulation": {
+              "label": "Occlusal Force Simulation",
+              "subcategories": {
+                "Finite Element Multiscale Modeling": {
+                  "label": "Finite Element Multiscale Modeling",
+                  "subcategories": {
+                    "Crystal Plasticity Integration": {
+                      "label": "Crystal Plasticity Integration",
+                      "subcategories": {
+                        "Dislocation Dynamics Coupling": {
+                          "label": "Dislocation Dynamics Coupling",
+                          "subcategories": {
+                            "Phase Field Modeling": {
+                              "label": "Phase Field Modeling",
+                              "subcategories": {
+                                "Ginzburg-Landau Equations": {
+                                  "label": "Ginzburg-Landau Equations",
+                                  "subcategories": {
+                                    "Free Energy Minimization": {
+                                      "label": "Free Energy Minimization"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Dental Healthcare": {
+      "label": "Dental Healthcare",
+      "subcategories": {
+        "Precision Periodontics": {
+          "label": "Precision Periodontics",
+          "subcategories": {
+            "Host Immune Modulation": {
+              "label": "Host Immune Modulation",
+              "subcategories": {
+                "Cytokine Profiling Arrays": {
+                  "label": "Cytokine Profiling Arrays",
+                  "subcategories": {
+                    "Multiplex Luminex Assays": {
+                      "label": "Multiplex Luminex Assays",
+                      "subcategories": {
+                        "Cross-Reactivity Minimization": {
+                          "label": "Cross-Reactivity Minimization",
+                          "subcategories": {
+                            "Epitope Shielding Strategies": {
+                              "label": "Epitope Shielding Strategies",
+                              "subcategories": {
+                                "PEGylation Techniques": {
+                                  "label": "PEGylation Techniques",
+                                  "subcategories": {
+                                    "Linker Chemistry Optimization": {
+                                      "label": "Linker Chemistry Optimization",
+                                      "subcategories": {
+                                        "Biocompatible Crosslinkers": {
+                                          "label": "Biocompatible Crosslinkers"
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "Microbiome Engineering": {
+              "label": "Microbiome Engineering",
+              "subcategories": {
+                "Phage Therapy Protocols": {
+                  "label": "Phage Therapy Protocols",
+                  "subcategories": {
+                    "Lytic Cycle Optimization": {
+                      "label": "Lytic Cycle Optimization",
+                      "subcategories": {
+                        "T7 RNA Polymerase Engineering": {
+                          "label": "T7 RNA Polymerase Engineering",
+                          "subcategories": {
+                            "Promoter Sequence Design": {
+                              "label": "Promoter Sequence Design",
+                              "subcategories": {
+                                "Ribosome Binding Site Optimization": {
+                                  "label": "Ribosome Binding Site Optimization",
+                                  "subcategories": {
+                                    "Shine-Dalgarno Sequence Tuning": {
+                                      "label": "Shine-Dalgarno Sequence Tuning"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Teledentistry Workflows": {
+          "label": "Teledentistry Workflows",
+          "subcategories": {
+            "Real-Time Collaboration Tools": {
+              "label": "Real-Time Collaboration Tools",
+              "subcategories": {
+                "WebRTC Data Channels": {
+                  "label": "WebRTC Data Channels",
+                  "subcategories": {
+                    "Loss-Tolerant Streaming": {
+                      "label": "Loss-Tolerant Streaming",
+                      "subcategories": {
+                        "Fountain Code Implementations": {
+                          "label": "Fountain Code Implementations",
+                          "subcategories": {
+                            "Luby Transform Codes": {
+                              "label": "Luby Transform Codes",
+                              "subcategories": {
+                                "Degree Distribution Optimization": {
+                                  "label": "Degree Distribution Optimization",
+                                  "subcategories": {
+                                    "Robust Soliton Distribution": {
+                                      "label": "Robust Soliton Distribution"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
